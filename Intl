@@ -1,28 +1,30 @@
-# To localize this text for a particular language, please
-# translate every second line of this file.
+# Tradurre solo la seconda riga
+# Non modificare o rimuovere i codici (es: {1})
+# Le stringhe relative ad errori di sistema al momento possono essere lasciate in inglese
+
 [Map0]
 Items
-Items
+Strumenti
 Medicine
-Medicine
+Rimedi
 Poké Balls
 Poké Balls
 TMs & HMs
-TMs & HMs
+MT & MN
 Berries
-Berries
+Bacche
 Mail
-Mail
+Messaggi
 Battle Items
-Battle Items
+Strumenti Lotta
 Key Items
-Key Items
+Strumenti Base
 Kanto Pokédex
-Kanto Pokédex
+Pokédex Kanto
 Johto Pokédex
-Johto Pokédex
+Pokédex Johto
 National Pokédex
-National Pokédex
+Pokédex Nazionale
 <ac>{1:02d}:{2:02d}
 <ac>{1:02d}:{2:02d}
 Expected a section at the beginning of the file (line {1})
@@ -40,55 +42,55 @@ Section {1} has an odd number of entries (section was recognized as a hash becau
 Expected a number in section {1}, got {2} instead
 Expected a number in section {1}, got {2} instead
 Hardy
-Hardy
+Ardita
 Lonely
-Lonely
+Schiva
 Brave
-Brave
+Audace
 Adamant
-Adamant
+Decisa
 Naughty
-Naughty
+Birbona
 Bold
-Bold
+Sicura
 Docile
 Docile
 Relaxed
-Relaxed
+Placida
 Impish
-Impish
+Scaltra
 Lax
-Lax
+Fiacca
 Timid
-Timid
+Timida
 Hasty
-Hasty
+Lesta
 Serious
-Serious
+Seria
 Jolly
-Jolly
+Allegra
 Naive
-Naive
+Ingenua
 Modest
-Modest
+Modesta
 Mild
-Mild
+Mite
 Quiet
-Quiet
+Quieta
 Bashful
-Bashful
+Ritrosa
 Rash
-Rash
+Ardente
 Calm
-Calm
+Calma
 Gentle
-Gentle
+Gentile
 Sassy
-Sassy
+Vivace
 Careful
-Careful
+Cauta
 Quirky
-Quirky
+Furba
 Cool Ribbon
 Cool Ribbon
 Cool Ribbon Super
