@@ -2,9 +2,10 @@
 # Non modificare o rimuovere i codici (es: {1})
 # Le stringhe relative ad errori di sistema al momento possono essere lasciate in inglese
 
-#J.J.Metal dalla riga 9 alla 3499
+#J.J.Metal dalla riga 9 alla 3499 --- FATTO
 #Marcotti dalla riga 3500 a 6999
 #Sora dalla riga 7000 a 10499
+
 
 [Map0]
 Items
@@ -18,7 +19,7 @@ MT & MN
 Berries
 Bacche
 Mail
-Messaggi
+Lettera
 Battle Items
 Strumenti Lotta
 Key Items
@@ -32,19 +33,19 @@ Pokédex Nazionale
 <ac>{1:02d}:{2:02d}
 <ac>{1:02d}:{2:02d}
 Expected a section at the beginning of the file (line {1})
-Expected a section at the beginning of the file (line {1})
+Prevista una sezione all'inizio del file (linea {1})
 Can't find {1}
-Can't find {1}
+Non riesco a trovare {1}
 Invalid section name {1}
-Invalid section name {1}
+La sezione nome {1} non è valida
 Section {1} can't be an ordered list (section was recognized as an ordered list because its first line is a number)
-Section {1} can't be an ordered list (section was recognized as an ordered list because its first line is a number)
+La sezione {1} non può essere una lista ordinata (la sezione è stata riconosciuta come una lista ordinata perché la sua prima linea è un numero)
 Section {1}'s line count is not divisible by 3 (section was recognized as an ordered list because its first line is a number)
-Section {1}'s line count is not divisible by 3 (section was recognized as an ordered list because its first line is a number)
+La somma della linea della sezione {1} non è divisibile per 3 (la sezione è stata riconosciuta come una lista ordinata perché la sua prima linea è un numero)
 Section {1} has an odd number of entries (section was recognized as a hash because its first line is not a number)
-Section {1} has an odd number of entries (section was recognized as a hash because its first line is not a number)
+La sezione {1} ha un numero dispari di voci (la sezione è stata riconosciuta come un Hash perché la sua prima linea non è un numero)
 Expected a number in section {1}, got {2} instead
-Expected a number in section {1}, got {2} instead
+Previsto un numero nella sezione {1}, ottenuto {2} al suo posto
 Hardy
 Ardita
 Lonely
@@ -96,625 +97,625 @@ Cauta
 Quirky
 Furba
 Cool Ribbon
-Cool Ribbon
+Fiocco Classe
 Cool Ribbon Super
-Cool Ribbon Super
+Fiocco Classe Super
 Cool Ribbon Hyper
-Cool Ribbon Hyper
+Fiocco Classe Iper
 Cool Ribbon Master
-Cool Ribbon Master
+Fiocco Classe Master
 Beauty Ribbon
-Beauty Ribbon
+Fiocco Bellezza
 Beauty Ribbon Super
-Beauty Ribbon Super
+Fiocco Bellezza Super
 Beauty Ribbon Hyper
-Beauty Ribbon Hyper
+Fiocco Bellezza Iper
 Beauty Ribbon Master
-Beauty Ribbon Master
+Fiocco Bellezza Master
 Cute Ribbon
-Cute Ribbon
+Fiocco Grazia
 Cute Ribbon Super
-Cute Ribbon Super
+Fiocco Grazia Super
 Cute Ribbon Hyper
-Cute Ribbon Hyper
+Fiocco Grazia Iper
 Cute Ribbon Master
-Cute Ribbon Master
+Fiocco Grazia Master
 Smart Ribbon
-Smart Ribbon
+Fiocco Acume
 Smart Ribbon Super
-Smart Ribbon Super
+Fiocco Acume Super
 Smart Ribbon Hyper
-Smart Ribbon Hyper
+Fiocco Acume Iper
 Smart Ribbon Master
-Smart Ribbon Master
+Fiocco Acume Master
 Tough Ribbon
-Tough Ribbon
+Fiocco Grinta
 Tough Ribbon Super
-Tough Ribbon Super
+Fiocco Grinta Super
 Tough Ribbon Hyper
-Tough Ribbon Hyper
+Fiocco Grinta Iper
 Tough Ribbon Master
-Tough Ribbon Master
+Fiocco Grinta Master
 Cool Ribbon Great
-Cool Ribbon Great
+Fiocco Classe Mega
 Cool Ribbon Ultra
-Cool Ribbon Ultra
+Fiocco Classe Iper
 Beauty Ribbon Great
-Beauty Ribbon Great
+Fiocco Bellezza Mega
 Beauty Ribbon Ultra
-Beauty Ribbon Ultra
+Fiocco Bellezza Ultra
 Cute Ribbon Great
-Cute Ribbon Great
+Fiocco Grazia Mega
 Cute Ribbon Ultra
-Cute Ribbon Ultra
+Fiocco Grazie Ultra
 Smart Ribbon Great
-Smart Ribbon Great
+Fiocco Acume Mega
 Smart Ribbon Ultra
-Smart Ribbon Ultra
+Fiocco Acume Ultra
 Tough Ribbon Great
-Tough Ribbon Great
+Fiocco Grinta Mega
 Tough Ribbon Ultra
-Tough Ribbon Ultra
+Fiocco Grinta Ultra
 Winning Ribbon
-Winning Ribbon
+Fiocco Vittoria
 Victory Ribbon
-Victory Ribbon
+Fiocco Trionfo
 Ability Ribbon
-Ability Ribbon
+Fiocco Abilità
 Great Ability Ribbon
-Great Ability Ribbon
+Fiocco Abilità Mega
 Double Ability Ribbon
-Double Ability Ribbon
+Fiocco Abilità Doppia
 Multi Ability Ribbon
-Multi Ability Ribbon
+Fiocco Abilità Multipla
 Pair Ability Ribbon
-Pair Ability Ribbon
+Fiocco Abilità Insieme
 World Ability Ribbon
-World Ability Ribbon
+Fiocco Abilità Mondiale
 Champion Ribbon
-Champion Ribbon
+Fiocco Campione
 Sinnoh Champ Ribbon
-Sinnoh Champ Ribbon
+Fiocco Campione Sinnoh
 Record Ribbon
-Record Ribbon
+Fiocco Record
 Event Ribbon
-Event Ribbon
+Fiocco Evento
 Legend Ribbon
-Legend Ribbon
+Fiocco Leggenda
 Gorgeous Ribbon
-Gorgeous Ribbon
+Fiocco Meraviglia
 Royal Ribbon
-Royal Ribbon
+Fiocco Reale
 Gorgeous Royal Ribbon
-Gorgeous Royal Ribbon
+Fiocco Meraviglia Reale
 Alert Ribbon
-Alert Ribbon
+Fiocco Allarme
 Shock Ribbon
-Shock Ribbon
+Fiocco Stupore
 Downcast Ribbon
-Downcast Ribbon
+Fiocco Sconforto
 Careless Ribbon
-Careless Ribbon
+Fiocco Indolenza
 Relax Ribbon
-Relax Ribbon
+Fiocco Relax
 Snooze Ribbon
-Snooze Ribbon
+Fiocco Pisolino
 Smile Ribbon
-Smile Ribbon
+Fiocco Sorriso
 Footprint Ribbon
-Footprint Ribbon
+Fiocco Orma
 Artist Ribbon
-Artist Ribbon
+Fiocco Artista
 Effort Ribbon
-Effort Ribbon
+Fiocco di Merito
 Birthday Ribbon
-Birthday Ribbon
+Fiocco Compleanno
 Special Ribbon
-Special Ribbon
+Fiocco Speciale
 Classic Ribbon
-Classic Ribbon
+Fiocco Classico
 Premier Ribbon
-Premier Ribbon
+Fiocco Principale
 Souvenir Ribbon
-Souvenir Ribbon
+Fiocco Ricordo
 Wishing Ribbon
-Wishing Ribbon
+Fiocco Desiderio
 National Ribbon
-National Ribbon
+Fiocco Nazionale
 Country Ribbon
-Country Ribbon
+Fiocco Paese
 Battle Champion Ribbon
-Battle Champion Ribbon
+Fiocco Campione Battaglia
 Regional Champion Ribbon
-Regional Champion Ribbon
+Fiocco Campione Regionale
 Earth Ribbon
-Earth Ribbon
+Fiocco Geo
 World Ribbon
-World Ribbon
+Fiocco Mondo
 National Champion Ribbon
-National Champion Ribbon
+Fiocco Campione Nazionale
 World Champion Ribbon
-World Champion Ribbon
+Fiocco Campione Mondiale
 Hoenn Cool Contest Normal Rank winner!
-Hoenn Cool Contest Normal Rank winner!
+Vincitore della Gara di Classe Normale di Hoenn!
 Hoenn Cool Contest Super Rank winner!
-Hoenn Cool Contest Super Rank winner!
+Vincitore della Gara di Classe Super di Hoenn!
 Hoenn Cool Contest Hyper Rank winner!
-Hoenn Cool Contest Hyper Rank winner!
+Vincitore della Gara di Classe Iper di Hoenn!
 Hoenn Cool Contest Master Rank winner!
-Hoenn Cool Contest Master Rank winner!
+Vincitore della Gara di Classe Master di Hoenn!
 Hoenn Beauty Contest Normal Rank winner!
-Hoenn Beauty Contest Normal Rank winner!
+Vincitore della Gara di Bellezza Normale di Hoenn!
 Hoenn Beauty Contest Super Rank winner!
-Hoenn Beauty Contest Super Rank winner!
+Vincitore della Gara di Bellezza Super di Hoenn!
 Hoenn Beauty Contest Hyper Rank winner!
-Hoenn Beauty Contest Hyper Rank winner!
+Vincitore della Gara di Bellezza Iper di Hoenn!
 Hoenn Beauty Contest Master Rank winner!
-Hoenn Beauty Contest Master Rank winner!
+Vincitore della Gara di Bellezza Master di Hoenn!
 Hoenn Cute Contest Normal Rank winner!
-Hoenn Cute Contest Normal Rank winner!
+Vincitore della Gara di Grazia Normale di Hoenn!
 Hoenn Cute Contest Super Rank winner!
-Hoenn Cute Contest Super Rank winner!
+Vincitore della Gara di Grazia Super di Hoenn!
 Hoenn Cute Contest Hyper Rank winner!
-Hoenn Cute Contest Hyper Rank winner!
+Vincitore della Gara di Grazia Iper di Hoenn!
 Hoenn Cute Contest Master Rank winner!
-Hoenn Cute Contest Master Rank winner!
+Vincitore della Gara di Grazia Master di Hoenn!
 Hoenn Smart Contest Normal Rank winner!
-Hoenn Smart Contest Normal Rank winner!
+Vincitore della Gara di Acume Normale di Hoenn!
 Hoenn Smart Contest Super Rank winner!
-Hoenn Smart Contest Super Rank winner!
+Vincitore della Gara di Acume Super di Hoenn!
 Hoenn Smart Contest Hyper Rank winner!
-Hoenn Smart Contest Hyper Rank winner!
+Vincitore della Gara di Acume Iper di Hoenn!
 Hoenn Smart Contest Master Rank winner!
-Hoenn Smart Contest Master Rank winner!
+Vincitore della Gara di Acume Master di Hoenn!
 Hoenn Tough Contest Normal Rank winner!
-Hoenn Tough Contest Normal Rank winner!
+Vincitore della Gara di Grinta Normale di Hoenn!
 Hoenn Tough Contest Super Rank winner!
-Hoenn Tough Contest Super Rank winner!
+Vincitore della Gara di Grinta Super di Hoenn!
 Hoenn Tough Contest Hyper Rank winner!
-Hoenn Tough Contest Hyper Rank winner!
+Vincitore della Gara di Grinta Iper di Hoenn!
 Hoenn Tough Contest Master Rank winner!
-Hoenn Tough Contest Master Rank winner!
+Vincitore della Gara di Grinta Master di Hoenn!
 Super Contest Cool Category Normal Rank winner!
-Super Contest Cool Category Normal Rank winner!
+Vincitore della Super Gara di Categoria Classe, livello Normale!
 Super Contest Cool Category Great Rank winner!
-Super Contest Cool Category Great Rank winner!
+Vincitore della Super Gara di Categoria Classe, livello Mega!
 Super Contest Cool Category Ultra Rank winner!
-Super Contest Cool Category Ultra Rank winner!
+Vincitore della Super Gara di Categoria Classe, livello Ultra!
 Super Contest Cool Category Master Rank winner!
-Super Contest Cool Category Master Rank winner!
+Vincitore della Super Gara di Categoria Classe, livello Master!
 Super Contest Beauty Category Normal Rank winner!
-Super Contest Beauty Category Normal Rank winner!
+Vincitore della Super Gara di Categoria Bellezza, livello Normale!
 Super Contest Beauty Category Great Rank winner!
-Super Contest Beauty Category Great Rank winner!
+Vincitore della Super Gara di Categoria Bellezza, livello Mega!
 Super Contest Beauty Category Ultra Rank winner!
-Super Contest Beauty Category Ultra Rank winner!
+Vincitore della Super Gara di Categoria Bellezza, livello Ultra!
 Super Contest Beauty Category Master Rank winner!
-Super Contest Beauty Category Master Rank winner!
+Vincitore della Super Gara di Categoria Bellezza, livello Master!
 Super Contest Cute Category Normal Rank winner!
-Super Contest Cute Category Normal Rank winner!
+Vincitore della Super Gara di Categoria Grazia, livello Normale!
 Super Contest Cute Category Great Rank winner!
-Super Contest Cute Category Great Rank winner!
+Vincitore della Super Gara di Categoria Grazia, livello Mega!
 Super Contest Cute Category Ultra Rank winner!
-Super Contest Cute Category Ultra Rank winner!
+Vincitore della Super Gara di Categoria Grazia, livello Ultra!
 Super Contest Cute Category Master Rank winner!
-Super Contest Cute Category Master Rank winner!
+Vincitore della Super Gara di Categoria Grazia, livello Master!
 Super Contest Smart Category Normal Rank winner!
-Super Contest Smart Category Normal Rank winner!
+Vincitore della Super Gara di Categoria Acume, livello Normale!
 Super Contest Smart Category Great Rank winner!
-Super Contest Smart Category Great Rank winner!
+Vincitore della Super Gara di Categoria Acume, livello Mega!
 Super Contest Smart Category Ultra Rank winner!
-Super Contest Smart Category Ultra Rank winner!
+Vincitore della Super Gara di Categoria Acume, livello Ultra!
 Super Contest Smart Category Master Rank winner!
-Super Contest Smart Category Master Rank winner!
+Vincitore della Super Gara di Categoria Acume, livello Master!
 Super Contest Tough Category Normal Rank winner!
-Super Contest Tough Category Normal Rank winner!
+Vincitore della Super Gara di Categoria Grinta, livello Normale!
 Super Contest Tough Category Great Rank winner!
-Super Contest Tough Category Great Rank winner!
+Vincitore della Super Gara di Categoria Grinta, livello Mega!
 Super Contest Tough Category Ultra Rank winner!
-Super Contest Tough Category Ultra Rank winner!
+Vincitore della Super Gara di Categoria Grinta, livello Ultra!
 Super Contest Tough Category Master Rank winner!
-Super Contest Tough Category Master Rank winner!
+Vincitore della Super Gara di Categoria Grinta, livello Master!
 Ribbon awarded for clearing Hoenn's Battle Tower's Lv. 50 challenge.
-Ribbon awarded for clearing Hoenn's Battle Tower's Lv. 50 challenge.
+Fiocco ottenuto per aver completato in modalità LV. 50 la Torre Lotta di Hoenn!
 Ribbon awarded for clearing Hoenn's Battle Tower's Lv. 100 challenge.
-Ribbon awarded for clearing Hoenn's Battle Tower's Lv. 100 challenge.
+Un Fiocco ottenuto per aver completato in modalità LV. 100 la Torre Lotta di Hoenn!
 A Ribbon awarded for defeating the Tower Tycoon at the Battle Tower.
-A Ribbon awarded for defeating the Tower Tycoon at the Battle Tower.
+Un Fiocco ottenuto per aver sconfitto il Boss della Torre Lotta.
 A Ribbon awarded for completing the Battle Tower Double challenge.
-A Ribbon awarded for completing the Battle Tower Double challenge.
+Un Fiocco ottenuto per aver completato la sfida della Torre Lotta con lotte in doppio.
 A Ribbon awarded for completing the Battle Tower Multi challenge.
-A Ribbon awarded for completing the Battle Tower Multi challenge.
+Un Fiocco ottenuto per aver completato la sfida della Torre Lotta con lotte multiple.
 A Ribbon awarded for completing the Battle Tower Link Multi challenge.
-A Ribbon awarded for completing the Battle Tower Link Multi challenge.
+Un Fiocco ottenuto per aver completato la sfida della Torre Lotta con lotte multiple in multiplayer.
 A Ribbon awarded for completing the Wi-Fi Battle Tower challenge.
-A Ribbon awarded for completing the Wi-Fi Battle Tower challenge.
+Un Fiocco ottenuto per aver completato la sfida della Torre Lotta con lotte in Wi-FI.
 Ribbon for clearing the Pokémon League and entering the Hall of Fame in another region.
-Ribbon for clearing the Pokémon League and entering the Hall of Fame in another region. 
+Fiocco ottenuto per aver sconfitto la Lega Pokémon e per essere entrato nella Sala d'Onore in un'altra regione.
 Ribbon awarded for beating the Sinnoh Champion and entering the Hall of Fame.
-Ribbon awarded for beating the Sinnoh Champion and entering the Hall of Fame.
+Fiocco ottenuto per aver sconfitto il Campione di Sinnoh e per essere entrato nella Sala d'Onore.
 A Ribbon awarded for setting an incredible record.
-A Ribbon awarded for setting an incredible record.
+Un Fiocco ottenuto per aver raggiunto un incredibile record!
 Pokémon Event Participation Ribbon.
-Pokémon Event Participation Ribbon.
+Fiocco di Partecipazione ad un Evento Pokémon
 A Ribbon awarded for setting a legendary record.
-A Ribbon awarded for setting a legendary record.
+Un Fiocco ottenuto per aver raggiunto un record leggendario!
 An extraordinarily gorgeous and extravagant Ribbon.
-An extraordinarily gorgeous and extravagant Ribbon.
+Un Fiocco meraviglioso e stravagante.
 An incredibly regal Ribbon with an air of nobility.
-An incredibly regal Ribbon with an air of nobility.
+Un Fiocco incredibilmente regale con un'aria di nobiltà.
 A gorgeous and regal Ribbon that is the peak of fabulous.
-A gorgeous and regal Ribbon that is the peak of fabulous.
+Un Fiocco meraviglioso e regale che è l'apice della magnificenza.
 A Ribbon for recalling an invigorating event that created life energy.
-A Ribbon for recalling an invigorating event that created life energy.
+Un fiocco per ricordare un evento tonificante che ha creato energia vitale.
 A Ribbon for recalling a thrilling event that made life more exciting.
-A Ribbon for recalling a thrilling event that made life more exciting.
+Un fiocco per ricordare un evento elettrificante che ha reso la vita più eccitante.
 A Ribbon for recalling feelings of sadness that added spice to life.
-A Ribbon for recalling feelings of sadness that added spice to life.
+Un fiocco per ricordare sentimenti di tristezza che ha aggiunto vivacità alla vita.
 A Ribbon for recalling a careless error that helped steer life decisions.
-A Ribbon for recalling a careless error that helped steer life decisions.
+Un fiocco per ricordare un errore non voluto che ha aiutato nelle decisioni della vita.
 A Ribbon for recalling a refreshing event that added sparkle to life.
-A Ribbon for recalling a refreshing event that added sparkle to life.
+Un fiocco per ricordare un evento rinfrescante che ha aggiunto luminosità alla vita..
 A Ribbon for recalling a deep slumber that made life soothing.
-A Ribbon for recalling a deep slumber that made life soothing.
+Un fiocco per ricordare una dormita che ha reso la vita più rassicurante.
 A Ribbon for recalling that smiles enrich the quality of life.
-A Ribbon for recalling that smiles enrich the quality of life.
+Un fiocco per ricordare che i sorrisi arricchiscono la qualità della vita.
 A Ribbon awarded to a Pokémon deemed to have a top-quality footprint.
-A Ribbon awarded to a Pokémon deemed to have a top-quality footprint.
+Un fiocco ottenuto per un Pokémon che crede di avere un'orma fantastica.
 Ribbon awarded for being chosen as a super sketch model in Hoenn.
-Ribbon awarded for being chosen as a super sketch model in Hoenn.
+Un fiocco ottenuto per essere stato scelto come modello di uno schizzo a Hoenn.
 Ribbon awarded for being an exceptionally hard worker.
-Ribbon awarded for being an exceptionally hard worker.
+Un fiocco ottenuto per essere un eccezionale e serio lavoratore.
 A Ribbon to celebrate a birthday.
-A Ribbon to celebrate a birthday.
+Un fiocco per celebrare un compleanno.
 A special Ribbon for a special day.
-A special Ribbon for a special day.
+Un fiocco speciale per un giorno speciale.
 A Ribbon that proclaims love for Pokémon.
-A Ribbon that proclaims love for Pokémon.
+Un fiocco che rivela l'amore per i Pokémon.
 Special Holiday Ribbon.
-Special Holiday Ribbon.
+Un fiocco per una Vacanza Speciale.
 A Ribbon to cherish a special memory.
-A Ribbon to cherish a special memory.
+Un fiocco per apprezzare un ricordo speciale.
 A Ribbon said to make your wish come true.
-A Ribbon said to make your wish come true.
+Un fiocco che si dice abbia la capacità di far avverare i desideri.
 A Ribbon awarded for overcoming all difficult challenges.
-A Ribbon awarded for overcoming all difficult challenges.
+Un fiocco ottenuto per aver superato tutte le sfide difficili.
 Pokémon League Champion Ribbon.
-Pokémon League Champion Ribbon.
+Fiocco per essere Campione della Lega Pokémon.
 Battle Competition Champion Ribbon.
-Battle Competition Champion Ribbon.
+Fiocco per essere Campione delle Lotte Competitive.
 Pokémon World Championships Regional Champion Ribbon.
-Pokémon World Championships Regional Champion Ribbon.
+Fiocco per essere Campione Regionale del Campionato Mondiale di Pokémon.
 A Ribbon awarded for winning 100 matches in a row.
-A Ribbon awarded for winning 100 matches in a row.
+Un fiocco ottenuto per aver vinto 100 lotte di fila.
 Pokémon World Championships National Champion Ribbon.
-Pokémon World Championships National Champion Ribbon.
+Fiocco per essere Campione Nazionale del Campionato Mondiale di Pokémon.
 Pokémon World Championships World Champion Ribbon.
-Pokémon World Championships World Champion Ribbon.
+Fiocco per essere Campione Mondiale del Campionato Mondiale di Pokémon.
 Failed to load the bitmap located at: {1}
-Failed to load the bitmap located at: {1}
+Fallito il caricamento del bitmap collocato a: {1}
 Frame width is 0
-Frame width is 0
+La larghezza del frame è 0
 Frame height is 0
-Frame height is 0
+L'altezza del frame è 0
 Bitmap's width ({1}) is not a multiple of frame width ({2}) [Bitmap={3}]
-Bitmap's width ({1}) is not a multiple of frame width ({2}) [Bitmap={3}]
+La larghezza del bitmap ({1}) non è un multiplo della larghezza del frame ({2}) [Bitmap={3}]
 Bitmap's height ({1}) is not a multiple of frame height ({2}) [Bitmap={3}]
-Bitmap's height ({1}) is not a multiple of frame height ({2}) [Bitmap={3}]
+L'altezza del bitmap ({1}) non è un multiplo dell'altezza del frame ({2}) [Bitmap={3}]
 Bitmap's width ({1}) is not a multiple of frame count ({2}) [Bitmap={3}]
-Bitmap's width ({1}) is not a multiple of frame count ({2}) [Bitmap={3}]
+La larghezza del bitmap ({1}) non è un multiplo della somma del frame ({2}) [Bitmap={3}]
 Moves the main character. Also used to scroll through list entries.
-Moves the main character.  Also used to scroll through list entries.
+Muove il personaggio principale. Utilizzato anche per scorrere attraverso la lista delle voci.
 Used to confirm a choice, check things, and talk to people.
-Used to confirm a choice, check things, and talk to people.
+Uso per confermare una scelta, controllare le cose, e per parlare con le persone.
 Used to exit, cancel a choice or mode, and open the pause menu.
-Used to exit, cancel a choice or mode, and open the pause menu.
+Usato per uscire, cancellare una scelta o modalità, e per aprire il menu di pausa.
 Hold down while walking to run.
-Hold down while walking to run.
+Tenere premuto mentre si cammina per correre.
 Press to use a registered Key Item.
-Press to use a registered Key Item.
+Premi per usaro uno Strumento Base registrato.
 An egg can't be an active Pokémon
-An egg can't be an active Pokémon
+Un uovo non può essere un Pokémon attivo.
 the foe {1}
-the foe {1}
+{1} nemico
 The foe {1}
-The foe {1}
+{1} nemico
 the wild {1}
-the wild {1}
+{1} selvatico
 The wild {1}
-The wild {1}
+{1} selvatico
 {1}
 {1}
 the ally {1}
-the ally {1}
+{1} alleato
 The ally {1}
-The ally {1}
+{1} alleato
 HP less than 0
-HP less than 0
+PS minori di 0
 HP greater than total HP
-HP greater than total HP
+PS maggiori dei PS totali
 {1} fainted!
-{1} fainted!
+{1} è esausto!
 {1} transformed!
-{1} transformed!
+{1} si è trasformato!
 {1}'s Drizzle made it rain!
-{1}'s Drizzle made it rain!
+Piovischio di {1} scatena un'acquazzone!
 {1}'s Sand Stream whipped up a sandstorm!
-{1}'s Sand Stream whipped up a sandstorm!
+Sabbiafiume di {1} scatena una tempesta di sabbia!
 {1}'s Drought intensified the sun's rays!
-{1}'s Drought intensified the sun's rays!
+Siccità di {1} intensifica i raggi del sole!
 {1}'s Snow Warning made it hail!
-{1}'s Snow Warning made it hail!
+Scendineve di {1} scatena una tempesta di grandine!
 {1} has Air Lock!
-{1} has Air Lock!
+Riparo di {1} ha effetto!
 The effects of weather disappeared.
-The effects of weather disappeared.
+Il tempo meteo ritorna alla normalità.
 {1} traced {2}'s {3}!
-{1} traced {2}'s {3}!
+{1} traccia {3} di {2}!
 {1}'s {2} boosted its Attack!
-{1}'s {2} boosted its Attack!
+{2} di {1} ha aumentato il suo Attacco!
 {1}'s {2} boosted its Special Attack!
-{1}'s {2} boosted its Special Attack!
+{2} di {1} ha aumentato il suo Attacco Speciale!
 {1} frisked the foe and found one {2}!
-{1} frisked the foe and found one {2}!
+{1} ha indagato sul nemico e ha trovato {2}!
 {1} shuddered with anticipation!
-{1} shuddered with anticipation!
+{1} si rabbrividisce con Presagio!
 {1}'s Forewarn alerted it to {2}!
-{1}'s Forewarn alerted it to {2}!
+Premonizione di {1} lo avverte di {2}!
 {1} transformed into the {2}!
-{1} transformed into the {2}!
+{1} si è trasformato in {2}!
 {1}'s Limber cured its paralysis problem!
-{1}'s Limber cured its paralysis problem!
+Scioltezza di {1} ha curato la sua paralisi!
 {1}'s Oblivious cured its love problem!
-{1}'s Oblivious cured its love problem!
+Indifferenza di {1} ha curato la sua infatuazione!
 {1}'s Vital Spirit cured its sleep problem!
-{1}'s Vital Spirit cured its sleep problem!
+Spiritovivo di {1} ha curato i suoi problemi di sonno!
 {1}'s Insomnia cured its sleep problem!
-{1}'s Insomnia cured its sleep problem!
+Insonnia di {1} ha curato i suoi problemi di sonno!
 {1}'s Immunity cured its poison problem!
-{1}'s Immunity cured its poison problem!
+Immunità di {1} ha curato il suo avvelenamento!
 {1}'s Own Tempo cured its confusion problem!
-{1}'s Own Tempo cured its confusion problem!
+Mente Locale di {1} ha curato la sua confusione!
 {1}'s Magma Armor cured its ice problem!
-{1}'s Magma Armor cured its ice problem!
+Magmascudo di {1} ha curato il congelamento!
 {1}'s Water Veil cured its burn problem!
-{1}'s Water Veil cured its burn problem!
+Idrovelo di {1} ha curato la sua scottatura!
 {1} became confused!
-{1} became confused!
+{1} è confuso!
 {1}'s {2} restored health!
-{1}'s {2} restored health!
+{2} di {1} ha ripristinato la salute!
 {1}'s {2} cured its paralysis problem!
-{1}'s {2} cured its paralysis problem!
+{2} di {1} ha curato la sua paralisi!
 {1}'s {2} cured its sleep problem!
-{1}'s {2} cured its sleep problem!
+{2} di {1} ha curato il suo sonno!
 {1}'s {2} cured its poison problem!
-{1}'s {2} cured its poison problem!
+{2} di {1} ha curato il suo avvelenamento!
 {1}'s {2} cured its burn problem!
-{1}'s {2} cured its burn problem!
+{2} di {1} ha curato la sua scottatura!
 {1}'s {2} cured its ice problem!
-{1}'s {2} cured its ice problem!
+{2} di {1} ha curato il suo congelamento!
 {1}'s {2} restored {3}'s PP!
-{1}'s {2} restored {3}'s PP!
+{2} di {1} ha ripristinato i PP di {3}!
 {1}'s {2} cured its confusion problem!
-{1}'s {2} cured its confusion problem!
+{2} di {1} ha curato la confusione!
 {1}'s {2} cured its frozen problem!
-{1}'s {2} cured its frozen problem!
+{2} di {1} ha curato il suo congelamento!
 For {1}, the {2} was too spicy!
-For {1}, the {2} was too spicy!
+Per {1}, {2} era troppo piccante!
 For {1}, the {2} was too dry!
-For {1}, the {2} was too dry!
+Per {1}, {2} era troppo secca!
 For {1}, the {2} was too sweet!
-For {1}, the {2} was too sweet!
+Per {1}, {2} era troppo dolce!
 For {1}, the {2} was too bitter!
-For {1}, the {2} was too bitter!
+Per {1}, {2} era troppo amara!
 For {1}, the {2} was too sour!
-For {1}, the {2} was too sour!
+Per {1}, {2} era troppo aspra!
 Using its {1}, the Attack of {2} rose!
-Using its {1}, the Attack of {2} rose!
+Usando {1}, l'attacco di {2} aumenta!
 Using its {1}, the Defense of {2} rose!
-Using its {1}, the Defense of {2} rose!
+Usando {1}, la Difesa di {2} aumenta!
 Using its {1}, the Speed of {2} rose!
-Using its {1}, the Speed of {2} rose!
+Usando {1}, la Velocità di {2} aumenta!
 Using its {1}, the Special Attack of {2} rose!
-Using its {1}, the Special Attack of {2} rose!
+Usando {1}, l'Attacco Speciale di {2} aumenta!
 Using its {1}, the Special Defense of {2} rose!
-Using its {1}, the Special Defense of {2} rose!
+Usando {1}, la Difesa Speciale di {2} aumenta!
 {1} used its {2} to get pumped!
-{1} used its {2} to get pumped!
+{1} ha usato {2} per gonfiarsi!
 Using {1}, the Attack of {2} rose sharply!
-Using {1}, the Attack of {2} rose sharply!
+Usando {1}, l'Attacco di {2} sale di molto!
 Using {1}, the Defense of {2} rose sharply!
-Using {1}, the Defense of {2} rose sharply!
+Usando {1}, la Difesa di {2} sale di molto!
 Using {1}, the Speed of {2} rose sharply!
-Using {1}, the Speed of {2} rose sharply!
+Usando {1}, la Velocità di {2} sale di molto!
 Using {1}, the Special Attack of {2} rose sharply!
-Using {1}, the Special Attack of {2} rose sharply!
+Usando {1}, l'Attacco Speciale di {2} sale di molto!
 Using {1}, the Special Defense of {2} rose sharply!
-Using {1}, the Special Defense of {2} rose sharply!
+Usando {1}, la Difesa Speciale di {2} sale di molto!
 {1}'s {2} restored its status!
-{1}'s {2} restored its status!
+{2} di {1} ha ristabilito il suo stato!
 {1}'s {2} cured its love problem!
-{1}'s {2} cured its love problem!
+{2} di {1} ha curato la sua infatuazione!
 {1} is taunted no more!
-{1} is taunted no more!
+{1} non è più provocato!
 {1}'s encore ended!
-{1}'s encore ended!
+Finisce la ripetizione di {1}!
 {1} is tormented no more!
-{1} is tormented no more!
+{1} non è più infuriato!
 {1} is disabled no more!
-{1} is disabled no more!
+{1} non è più inibito!
 {1}'s {2} restored its HP a little!
-{1}'s {2} restored its HP a little!
+{2} di {1} rigenera un po' dei suoi PS!
 {1} was hurt by its {2}!
-{1} was hurt by its {2}!
+{1} è danneggiato dal suo {2}!
 {1} Snatched {2}'s move!
-{1} Snatched {2}'s move!
+{1} ruba la mossa di {2}!
 {1}'s {2} blocks {3}!
-{1}'s {2} blocks {3}!
+{2} di {1} blocca {3}!
 {1}'s LightningRod took the move!
-{1}'s LightningRod took the move!
+Parafulmine di {1} attira la mossa!
 {1}'s Storm Drain took the move!
-{1}'s Storm Drain took the move!
+Acquascolo di {1} attira la mossa!
 {1}'s {2} was bounced back by Magic Coat!
-{1}'s {2} was bounced back by Magic Coat!
+{2} di {1} è stato spedito indietro da Magivelo!
 {1} bounced the {2} back!
-{1} bounced the {2} back!
+{1} ha spedito {2} indietro!
 {1} ignored orders while asleep!
-{1} ignored orders while asleep!
+{1} ignora gli ordini mentre dorme!
 {1} ignored orders!
-{1} ignored orders!
+{1} ignora gli ordini!
 {1} took a nap!
-{1} took a nap!
+{1} si fa un pisolino!
 It hurt itself from its confusion!
-It hurt itself from its confusion!
+Colpisce se stesso per la confusione!
 {1} turned away!
-{1} turned away!
+{1} se ne va!
 {1} is loafing around!
-{1} is loafing around!
+{1} sta oziando in giro!
 {1} pretended not to notice!
-{1} pretended not to notice!
+{1} non ci fa caso!
 {1} wasn't affected!
-{1} wasn't affected!
+{1} non è stato colpito!
 But it failed!
-But it failed!
+Ma fallisce!
 But it failed to spit up a thing!
-But it failed to spit up a thing!
+Ma fallisce per sputare fuori una cosa!
 {1} protected itself!
-{1} protected itself!
+{1} si protegge!
 {1} makes Ground moves miss with Levitate!
-{1} makes Ground moves miss with Levitate!
+{1} evita le mosse Terra con Levitazione!
 {1} makes Ground moves miss with Magnet Rise!
-{1} makes Ground moves miss with Magnet Rise!
+{1} evita le mosse Terra con Magnetascesa!
 {1} makes Ground moves miss with Telekinesis!
-{1} makes Ground moves miss with Telekinesis!
+{1} evita le mosse Terra con Telecinesi!
 {1}'s Air Balloon makes Ground moves miss!
-{1}'s Air Balloon makes Ground moves miss!
+Palloncino di {1} gli fa evitare le mosse Terra!
 {1} avoided damage with Wonder Guard!
-{1} avoided damage with Wonder Guard!
+{1} evita i danni con Magidifesa!
 It doesn't affect<<n>>{1}...
-It doesn't affect<<r>><<n>>{1}...
+Non ha effetto<<r>><<n>>{1}...
 {1} avoided the attack!
-{1} avoided the attack!
+{1} ha evitato l'attacco!
 {1} evaded the attack!
-{1} evaded the attack!
+{1} è sfuggito all'attacco!
 {1}'s attack missed!
-{1}'s attack missed!
+L'attacco di {1} va a vuoto!
 {1} woke up!
-{1} woke up!
+{1} si è svegliato!
 {1} is fast asleep.
-{1} is fast asleep.
+{1} è ancora addormentato.
 {1} was defrosted!
-{1} was defrosted!
+{1} si è scongelato!
 {1} is frozen solid!
-{1} is frozen solid!
+{1} è ancora congelato!
 {1} appears incapable of using its power!
-{1} appears incapable of using its power!
+{1} è incapace di usare il suo potere!
 {1} must recharge!
-{1} must recharge!
+{1} si deve ricaricare!
 {1} flinched!
-{1} flinched!
+{1} tentenna!
 {1}'s {2} raised its speed!
-{1}'s {2} raised its speed!
+{2} di {1} ha aumentato la sua Velocità!
 {1}'s {2} is disabled!
-{1}'s {2} is disabled!
+{2} di {1} è disabilitato!
 {1} can't use {2} after the Taunt!
-{1} can't use {2} after the Taunt!
+{1} non può usare {2} a causa di Provocazione!
 {1} can't use {2} after the Heal Block!
-{1} can't use {2} after the Heal Block!
+{1} non può usare {2} a causa di Anticura!
 {1} can't use the sealed {2}!
-{1} can't use the sealed {2}!
+{1} non può usare {2} perché è sigillata!
 {1} snapped out of confusion!
-{1} snapped out of confusion!
+{1} non è più confuso!
 {1} is confused!
-{1} is confused!
+{1} è confuso!
 {1} is paralyzed! It can't move!
-{1} is paralyzed!  It can't move!
+{1} è paralizzato! Non riesce a muoversi!
 {1} is in love with {2}!
-{1} is in love with {2}!
+{1} è attratto da {2}!
 {1} is immobilized by love!
-{1} is immobilized by love!
+{1} è innamorato, non può attaccare!
 {1} was defrosted by {2}!
-{1} was defrosted by {2}!
+{1} è stato scongelato da {2}!
 {1} kept going and crashed!
-{1} kept going and crashed!
+{1} si sbilancia e cade!
 {1}'s rage is building!
-{1}'s rage is building!
+Cresce l'ira di {1}!
 {1}'s {2} lost all PP due to the Grudge!
-{1}'s {2} lost all PP due to the Grudge!
+{2} di {1} perde tutti i PP a causa di Rancore!
 {1} took {2} with it!
-{1} took {2} with it!
+{2} trascina {1} con se!
 {1}'s {2} was transferred to {3}!
-{1}'s {2} was transferred to {3}!
+{2} di {1} è stato trasferito a {3}!
 {1}'s Shell Bell restored its HP a little!
-{1}'s Shell Bell restored its HP a little!
+Conchinella di {1} ha ripristinato un po' dei suoi PS! 
 A critical hit!
-A critical hit!
+Colpo critico!
 {1}'s Rage is building!
-{1}'s Rage is building!
+Cresce l'ira di {1}!
 {1} endured the hit!
-{1} endured the hit!
+{1} resiste al colpo!
 {1} hung on using its Focus Band!
-{1} hung on using its Focus Band!
+{1} tiene duro usando la sua Bandana!
 {1} hung on using its Focus Sash!
-{1} hung on using its Focus Sash!
+{1} tiene duro usando il suo Focalnastro!
 {1} hung on with Sturdy!
-{1} hung on with Sturdy!
+{1} resiste grazie a Vigore!
 It's not very effective...
-It's not very effective...
+E' poco efficace...
 It's super effective!
-It's super effective!
+E' superefficace!
 Hit {1} time(s)!
-Hit {1} time(s)!
+Coplisce {1} volte!
 But there was no target...
-But there was no target...
+Ma non c'è nessun bersaglio...
 {1} woke up in the uproar!
-{1} woke up in the uproar!
+{1} si sveglia a causa di Baraonda!
 {1} fled!
-{1} fled!
+{1} è fuggito!
 {1} used<<n>>{2}!
-{1} used<<r>><<n>>{2}!
+{1} ha usato<<r>><<n>>{2}!
 But there was no PP left for the move!
-But there was no PP left for the move!
+Non ci sono più PP disponibili per la mossa!
 {1}'s {2} raised its attack!
-{1}'s {2} raised its attack!
+{2} di {1} aumenta il suo attacco!
 {1}'s {2} raised its Fire power!
-{1}'s {2} raised its Fire power!
+{2} di {1} aumenta la potenza delle mosse Fuoco!
 {1}'s {2} made {3} ineffective!
-{1}'s {2} made {3} ineffective!
+{2} di {1} ha reso {3} non efficace!
 {1}'s {2} raised its Special Attack!
-{1}'s {2} raised its Special Attack!
+{2} di {1} aumenta il suo Attacco Speciale!
 {1}'s {2} raised its Speed!
-{1}'s {2} raised its Speed!
+{2} di {1} aumenta la sua Velocità!
 {1}'s {2} raised its Attack!
-{1}'s {2} raised its Attack!
+{2} di {1} aumenta il suo Attacco!
 {1}'s {2} made {3} useless!
-{1}'s {2} made {3} useless!
+{2} di {1} ha reso {3} inutile!
 {1}'s {2} restored its HP!
-{1}'s {2} restored its HP!
+{2} di {1} ripristina i suoi PS!
 {1}'s {2} lowered its Defense!
-{1}'s {2} lowered its Defense!
+{2} di {1} diminuisce la sua Difesa!
 It doesn't affect {1}...
-It doesn't affect {1}...
+Non ha effetto su {1}...
 The substitute took damage for {1}!
-The substitute took damage for {1}!
+Il sostituto subisce il danno al posto di {1}!
 {1}'s substitute faded!
-{1}'s substitute faded!
+Il sostituto di {1} svanisce!
 {1}'s Anger Point maxed its Attack!
-{1}'s Anger Point maxed its Attack!
+Grancollera di {1} massimizza il suo Attacco!
 {1}'s Air Balloon burst!
-{1}'s Air Balloon burst!
+Scoppia il Palloncino di {1}!
 The level number ({1}) is invalid.
-The level number ({1}) is invalid.
+Il livello ({1}) non è valido.
 Unknown happiness-changing method.
-Unknown happiness-changing method.
+Metodo di modifica della felicità sconosciuto.
 The species number (no. {1} of {2}) is invalid.
-The species number (no. {1} of {2}) is invalid.
+Il numero della specie (n. {1} di {2}) non è valido.
 Graphics/Pictures/battleCommandButtons
 Graphics/Pictures/battleCommandButtons
 {1:s}PP: ---<br>TYPE/{2:s}
-{1:s}PP: ---<br>TYPE/{2:s}
+{1:s}PP: ---<br>TIPO/{2:s}
 {1:s}PP: {2: 2d}/{3: 2d}<br>TYPE/{4:s}
-{1:s}PP: {2: 2d}/{3: 2d}<br>TYPE/{4:s}
+{1:s}PP: {2: 2d}/{3: 2d}<br>TIPO/{4:s}
 Graphics/Pictures/types
 Graphics/Pictures/types
 Graphics/Pictures/battleFightButtons
@@ -722,15 +723,15 @@ Graphics/Pictures/battleFightButtons
 PP: {1}/{2}
 PP: {1}/{2}
 Safari Balls
-Safari Balls
+Safari Ball
 Left: {1}
-Left: {1}
+Rimaste: {1}
 Graphics/Pictures/battleStatuses
 Graphics/Pictures/battleStatuses
-♂
-♂
-♀
-♀
+?
+?
+?
+?
 Lv{1}
 Lv{1}
 {1: 2d}/{2: 2d}
@@ -738,1019 +739,1019 @@ Lv{1}
 {1:s}<<1>>
 {1:s}<<1>>
 Yes
-Yes
+Sì
 No
 No
 What will<<n>>{1} throw?
-What will<<n>>{1} throw?
+Cosa deve tirare<<n>>{1}?
 Ball
 Ball
 Rock
-Rock
+Sasso
 Bait
-Bait
+Esca
 Run
-Run
+Fuga
 What will<<n>>{1} do?
-What will<<n>>{1} do?
+Cosa deve fare<<n>>{1}?
 Fight
-Fight
+Lotta
 Pokémon
 Pokémon
 Bag
-Bag
+Zaino
 Call
-Call
+Chiama
 ({1}) PP: {2}/{3}
  ({1}) PP: {2}/{3}
 Cancel
-Cancel
+Cancella
 Use
-Use
+Usa
 {1} is selected.
-{1} is selected.
+{1} è selezionato.
 Use on which Pokémon?
-Use on which Pokémon?
+Usare su quale Pokémon?
 No targets somehow...
-No targets somehow...
+Non ci sono bersagli...
 Choose a Pokémon.
-Choose a Pokémon.
+Scegli un Pokémon.
 Switch In
-Switch In
+Scambia
 Summary
-Summary
+Sommario
 Do what with {1}?
-Do what with {1}?
+Cosa vuoi fare con {1}?
 Max. HP<r>+{1}<<n>>Attack<r>+{2}<<n>>Defense<r>+{3}<<n>>Sp. Atk<r>+{4}<<n>>Sp. Def<r>+{5}<<n>>Speed<r>+{6}
-Max. HP<r>+{1}<<r>><<n>>Attack<r>+{2}<<r>><<n>>Defense<r>+{3}<<r>><<n>>Sp. Atk<r>+{4}<<r>><<n>>Sp. Def<r>+{5}<<r>><<n>>Speed<r>+{6}
+PS Max.<r>+{1}<<r>><<n>>Attacco<r>+{2}<<r>><<n>>Difesa<r>+{3}<<r>><<n>>Att. Sp.<r>+{4}<<r>><<n>>Dif. Sp.<r>+{5}<<r>><<n>>Velocità<r>+{6}
 Max. HP<r>{1}<<n>>Attack<r>{2}<<n>>Defense<r>{3}<<n>>Sp. Atk<r>{4}<<n>>Sp. Def<r>{5}<<n>>Speed<r>{6}
-Max. HP<r>{1}<<r>><<n>>Attack<r>{2}<<r>><<n>>Defense<r>{3}<<r>><<n>>Sp. Atk<r>{4}<<r>><<n>>Sp. Def<r>{5}<<r>><<n>>Speed<r>{6}
+PS Max.<r>{1}<<r>><<n>>Attacco<r>{2}<<r>><<n>>Difesa<r>{3}<<r>><<n>>Att. Sp.<r>{4}<<r>><<n>>Dif. Sp.<r>{5}<<r>><<n>>Velocità<r>{6}
 Would you like to give a nickname to {1}?
-Would you like to give a nickname to {1}?
+Vuoi dare un soprannome a {1}?
 {1}'s nickname?
-{1}'s nickname?
+Il soprannome di {1}?
 Box "{1}" on {2}'s PC was full.
-Box "{1}" on {2}'s PC was full.
+Il Box "{1}" sul PC di {2} è pieno.
 Box "{1}" on someone's PC was full.
-Box "{1}" on someone's PC was full.
+Il Box "{1}" sul PC di qualcuno è pieno.
 {1} was transferred to box "{2}".
-{1} was transferred to box "{2}".
+{1} è stato trasferito al box "{2}".
 {1} was transferred to {2}'s PC.
-{1} was transferred to {2}'s PC.
+{1} è stato trasferito al PC di {2}.
 {1} was transferred to someone's PC.
-{1} was transferred to someone's PC.
+{1} è stato strasferito al PC di qualcuno.
 It was stored in box "{1}".
-It was stored in box "{1}".
+E' stato depositato nel box "{1}".
 {1} threw one {2}!
-{1} threw one {2}!
+{1} lancia una {2}!
 The Trainer blocked the Ball!<<n>>Don't be a thief!
-The Trainer blocked the Ball!<<n>>Don't be a thief!
+L'allenatore ha bloccato la Ball!<<n>>Non rubare!
 Oh no! The Pokémon broke free!
-Oh no!  The Pokémon broke free!
+Oh no! Il Pokémon si è liberato!
 Aww... It appeared to be caught!
-Aww... It appeared to be caught!
+Azz... Sembrava preso, e invece no!
 Aargh! Almost had it!
-Aargh!  Almost had it!
+Aargh! Mancava poco!
 Shoot! It was so close, too!
-Shoot!  It was so close, too!
+No! C'ero quasi riuscito!
 Gotcha! {1} was caught!
-Gotcha!  {1} was caught!
+Preso! {1} è stato catturato!
 {1}'s data was added to the Pokédex.
-{1}'s data was added to the Pokédex.
+I dati di {1} sono stati aggiunti al Pokédex.
 Party 1 has no Pokémon.
-Party 1 has no Pokémon.
+La squadra 1 non ha Pokémon.
 Party 2 has no Pokémon.
-Party 2 has no Pokémon.
+La squadra 2 non ha Pokémon.
 Wild battles with more than two Pokémon are not allowed.
-Wild battles with more than two Pokémon are not allowed.
+Lotte selvatiche con più di due Pokémon non sono ammesse.
 Party 1 has more than {1} Pokémon.
-Party 1 has more than {1} Pokémon.
+La squadra 1 ha più di {1} Pokémon.
 Party 2 has more than {1} Pokémon.
-Party 2 has more than {1} Pokémon.
+La squadra 2 ha più di {1} Pokémon.
 Only two wild Pokémon are allowed in double battles
-Only two wild Pokémon are allowed in double battles
+Sono permessi solo due Pokémon selvatici nelle lotte doppie
 Wild {1} appeared!
-Wild {1} appeared!
+Appare {1} selvatico!
 Only one wild Pokémon is allowed in single battles
-Only one wild Pokémon is allowed in single battles
+Solo un Pokémon selvatico è permesso nelle lotte singole
 Wild {1} and<<n>>{2} appeared!
-Wild {1} and<<r>><<n>>{2} appeared!
+Appaiono {1} e<<r>><<n>>{2} selvatici!
 Only one or two wild Pokémon are allowed
-Only one or two wild Pokémon are allowed
+Solo uno o due Pokémon selvatici sono permessi
 Opponents with zero or more than two people are not allowed
-Opponents with zero or more than two people are not allowed
+Avversari con zero o più di due persone non sono permessi
 Player trainers with zero or more than two people are not allowed
-Player trainers with zero or more than two people are not allowed
+Allenatori con zero o più di due persone non sono permessi
 {1} and {2} want to battle!
-{1} and {2} want to battle!
+{1} e {2} vogliono lottare!
 Opponent 1 has no unfainted Pokémon
-Opponent 1 has no unfainted Pokémon
+L'avversario 1 non ha Pokémon attivi
 Opponent 2 has no unfainted Pokémon
-Opponent 2 has no unfainted Pokémon
+L'avversario 2 non ha Pokémon attivi
 {1} sent<<n>>out {2}!
-{1} sent<<r>><<n>>out {2}!
+{1} manda<<r>><<n>>{2}!
 {1}<<n>>would like to battle!
-{1}<<r>><<n>>would like to battle!
+{1}<<r>><<n>>vuole combattere!
 Opponent doesn't have two unfainted Pokémon
-Opponent doesn't have two unfainted Pokémon
-{1} sent<<n>>out {2} and {3}!
+L'avversario non ha due Pokémon attivi!
 {1} sent<<r>><<n>>out {2} and {3}!
+{1} manda<<n>> {2} e {3}!
 Trainer has no unfainted Pokémon
-Trainer has no unfainted Pokémon
+L'allenatore non ha Pokémon attivi
 Opponent trainer must be only one person in single battles
-Opponent trainer must be only one person in single battles
+L'allenatore avversario deve essere solo una persona nelle battaglie singole
 Player trainer must be only one person in single battles
-Player trainer must be only one person in single battles
+Il giocatore può essere solo una persona nelle battaglie singole
 Player 1 has no unfainted Pokémon
-Player 1 has no unfainted Pokémon
+Il Giocatore 1 non ha Pokémon attivi
 Player 2 has no unfainted Pokémon
-Player 2 has no unfainted Pokémon
+Il Giocatore 2 non ha Pokémon attivi
 {1} sent<<n>>out {2}! Go! {3}!
-{1} sent<<r>><<n>>out {2}!  Go! {3}!
+{1} manda<<r>><<n>>{2}! Vai! {3}!
 Player doesn't have two unfainted Pokémon
-Player doesn't have two unfainted Pokémon
+Il giocatore non ha due Pokémon attivi
 Go! {1} and {2}!
-Go! {1} and {2}!
+Andate! {1} e {2}!
 Player has no unfainted Pokémon
-Player has no unfainted Pokémon
+Il giocatore non ha Pokémon attivi
 Go! {1}!
-Go! {1}!
+Vai! {1}!
 The sunlight is strong.
-The sunlight is strong.
+La luce solare è forte.
 It is raining.
-It is raining.
+Sta piovendo.
 A sandstorm is raging.
-A sandstorm is raging.
+Una tempesta di sabbia si sta scatenando.
 Hail is falling.
-Hail is falling.
+La grandine sta cadendo.
 {1} defeated {2} and {3}!
-{1} defeated {2} and {3}!
+{1} ha sconfitto {2} e {3}!
 {1} defeated<<n>>{2}!
-{1} defeated<<r>><<n>>{2}!
+{1} ha sconfitto<<r>><<n>>{2}!
 {1} got ${2}<<n>>for winning!
-{1} got ${2}<<r>><<n>>for winning!
+{1} riceve ${2}<<r>><<n>>per la vittoria!
 {1} picked up ${2}!
-{1} picked up ${2}!
+{1} raccoglie ${2}!
 {1} is out of usable Pokémon!
-{1} is out of usable Pokémon!
+{1} non ha più Pokémon utilizzabili!
 {1} lost against {2} and {3}!
-{1} lost against {2} and {3}!
+{1} perde contro {2} e {3}!
 {1} lost against<<n>>{2}!
-{1} lost against<<r>><<n>>{2}!
+{1} perde contro<<r>><<n>>{2}!
 {1} paid ${2}<<n>>as the prize money...
-{1} paid ${2}<<r>><<n>>as the prize money...
+{1} paga ${2}<<r>><<n>>come premio...
 ...
 ...
-{1} panicked and lost<<n>>${2}...
 {1} panicked and lost<<r>><<n>>${2}...
+{1} va nel panico e perde<<n>>${2}...
 {1} blacked out!
 {1} blacked out!
 Treat this battle as a win?
-Treat this battle as a win?
+Considera questa lotta come una vittoria?
 Treat this battle as a loss?
-Treat this battle as a loss?
+Considera questa lotta come una sconfitta?
 No! There's no running from a Trainer battle!
-No!  There's no running from a Trainer battle!
+No! Non puoi fuggire da una Lotta Pokémon!
 Would you like to forfeit the match and quit now?
-Would you like to forfeit the match and quit now?
+Vuoi arrenderti e uscire ora?
 {1} forfeited the match!
-{1} forfeited the match!
+{1} si è arreso!
 Got away safely!
-Got away safely!
+Scampato pericolo!
 Can't escape!
-Can't escape!
+Non si scappa!
 {1} fled using its {2}!
-{1} fled using its {2}!
+{1} fugge usando {2}!
 {1} fled using Run Away!
-{1} fled using Run Away!
+{1} scappa grazie a Fugafacile!
 There's no PP left for this move!
-There's no PP left for this move!
+Questa mossa non ha più PP disponibili!
 {1} allows the use of only {2}!
-{1} allows the use of only {2}!
+{1} permette solo l'uso di {2}!
 {1} can't use the same move in a row due to the Torment!
-{1} can't use the same move in a row due to the Torment!
+{1} non può usare la stessa mossa di fila a causa di Attaccalite!
 {1} has no moves left!
-{1} has no moves left!
+{1} non ha più mosse disponibili!
 Oh!<<n>>A Shadow Pokemon!
-Oh!<<n>>A Shadow Pokemon!
+Oh!<<n>>Un Pokémon Ombra!
 {1} was healed by the Healing Wish!
-{1} was healed by the Healing Wish!
+{1} si è curato con Cuorardore!
 {1} was healed by the Lunar Dance!
-{1} was healed by the Lunar Dance!
+{1} si è curato con Lunardanza!
 {1} is hurt by spikes!
-{1} is hurt by spikes!
+{1} è danneggiato dalle Punte!
 {1} absorbed the poison spikes!
-{1} absorbed the poison spikes!
+{1} ha assorbito le Fielepunte!
 {1} was badly poisoned!
-{1} was badly poisoned!
+{1} è iperavvelenato!
 {1} was poisoned!
-{1} was poisoned!
+{1} è avvelenato!
 {1} is hurt by stealth rocks!
-{1} is hurt by stealth rocks!
+{1} è stato colpito da Levitoroccia!
 An Egg can't battle!
-An Egg can't battle!
+Un Uovo non può combattere!
 You can't switch {1}'s Pokémon with one of yours!
-You can't switch {1}'s Pokémon with one of yours!
+Non puoi scambiare il Pokémon di {1} con uno dei tuoi!
 {1} has no energy left to battle!
-{1} has no energy left to battle!
+{1} non ha più energia per lottare!
 {1} is already in battle!
-{1} is already in battle!
+{1} è già in battaglia!
 {1} has already been selected.
-{1} has already been selected.
+{1} è già stato selezionato.
 {1} can't be switched out!
-{1} can't be switched out!
+{1} non può essere scambiato!
 {1}'s {2} prevents switching!
-{1}'s {2} prevents switching!
+{2} di {1} nega lo scambio!
 It won't have any effect.
-It won't have any effect.
+Non avrebbe alcun effetto.
 {1} used the<<n>>{2}!
-{1} used the<<r>><<n>>{2}!
+{1} usa<<r>><<n>>{2}!
 {1} regained health!
-{1} regained health!
+{1} recupera salute!
 {1}'s Attack rose!
-{1}'s Attack rose!
+Sale l'Attacco di {1}!
 {1}'s Defense rose!
-{1}'s Defense rose!
+Sale la Difesa di {1}!
 {1}'s Speed rose!
-{1}'s Speed rose!
+Sale la Velocità di {1}!
 {1}'s Special Attack rose!
-{1}'s Special Attack rose!
+Sale l'Attacco Speciale di {1}!
 {1}'s Special Defense rose!
-{1}'s Special Defense rose!
+Sale la Difesa Speciale di {1}!
 {1}'s accuracy rose!
-{1}'s accuracy rose!
+Sale la Precisione di {1}!
 {1} became healthy!
-{1} became healthy!
+{1} ritorna in salute!
 {1}'s {2} paralyzed {3}! It may be unable to move!
-{1}'s {2} paralyzed {3}!  It may be unable to move!
+{2} di {1} ha paralizzato {3}! Potrebbe non riuscire a muoversi!
 {1}'s {2} poisoned {3}!
-{1}'s {2} poisoned {3}!
+{2} di {1} ha avvelenato {3}!
 {1}'s {2} burned {3}!
-{1}'s {2} burned {3}!
+{2} di {1} ha scottato {3}!
 {1}'s {2} made {3} sleep!
-{1}'s {2} made {3} sleep!
+{2} di {1} ha addormentato {3}!
 {1}'s {2} infatuated {3}!
-{1}'s {2} infatuated {3}!
+{2} di {1} ha infatuato {3}!
 {1}'s {2} hurt {3}!
-{1}'s {2} hurt {3}!
+{2} di {1} ha danneggiato {3}!
 {1} was caught in the aftermath!
-{1} was caught in the aftermath!
+{1} è colpito dallo Scoppio!
 {1} pickpocketed {2}'s {3}!
-{1} pickpocketed {2}'s {3}!
+{1} ha arraffato {3} di {2}!
 {1} was mummified by {2}!
-{1} was mummified by {2}!
+{1} è stato mummificato da {2}!
 {1}'s {2} disabled {3}!
-{1}'s {2} disabled {3}!
+{2} di {1} ha disabilitato {3}!
 {1}'s {2} made it the {3} type!
-{1}'s {2} made it the {3} type!
+{2} di {1} lo fa diventare di tipo {3}!
 {1} learned {2}!
-{1} learned {2}!
+{1} ha imparato {2}!
 {1} is trying to learn {2}.
-{1} is trying to learn {2}.
+{1} vuole imparare {2}.
 But {1} can't learn more than four moves.
-But {1} can't learn more than four moves.
+Ma {1} non può imparare più di quattro mosse.
 Delete a move to make room for {1}?
-Delete a move to make room for {1}?
+Eliminare una mossa per fare spazio a {1}?
 Which move should be forgotten?
-Which move should be forgotten?
+Quale mossa vuoi che dimentichi?
 1, 2, and... ... ...
-1,  2, and... ... ...
+1, 2, e... ... ...
 Poof!
 Poof!
 {1} forgot {2}.
-{1} forgot {2}.
+{1} dimentica {2}.
 And...
-And...
+e...
 Should {1} stop learning {2}?
-Should {1} stop learning {2}?
+Vuoi che {1} blocchi l'apprendimento di {2}?
 {1} did not learn {2}.
-{1} did not learn {2}.
+{1} non ha imparato {2}.
 {1} gained a boosted {2} Exp. Points!
-{1} gained a boosted {2} Exp. Points!
+{1} riceve la bellezza di {2} Punti Esp.!
 {1} gained {2} Exp. Points!
-{1} gained {2} Exp. Points!
+{1} guadagna {2} Punti Esp.!
 The new level ({1}) is less than the Pokémon's<<n>>current level ({2}), which shouldn't happen.<<n>><<[>>Debug: {3}<<]>>
-The new level ({1}) is less than the Pokémon's<<r>><<n>>current level ({2}), which shouldn't happen.<<r>><<n>><<[>>Debug: {3}<<]>>
+il nuovo livello ({1}) è inferiore del livello<<r>><<n>>attuale del Pokémon ({2}), e non può succedere.<<r>><<n>><<[>>Debug: {3}<<]>>
 {1} grew to Level {2}!
-{1} grew to Level {2}!
+{1} sale al livello {2}!
 {1} called {2}!
-{1} called {2}!
+{1} è chiamato {2}!
 {1}!
 {1}!
 {1} came to its senses from the Trainer's call!
-{1} came to its senses from the Trainer's call!
+{1} torna in sé grazie al richiamo dell'Allenatore!
 But nothing happened!
-But nothing happened!
+Ma non succede nulla!
 Its accuracy rose!
-Its accuracy rose!
+Aumenta la sua precisione!
 {1} is about to send in {2}.
-{1} is about to send in {2}.
+{1} vuole mandare {2}.
 Will {1} change Pokémon?
-Will {1} change Pokémon?
+{1}, vuoi cambiare Pokémon?
 {1}, that's enough! Come back!
-{1}, that's enough!  Come back!
+{1}, hai fatto abbastanza! Ritorna!
 Use next Pokémon?
-Use next Pokémon?
+Vuoi usare un altro Pokémon?
 Do it! {1}!
-Do it! {1}!
+Fallo! {1}!
 Go for it, {1}!
-Go for it, {1}!
+Vai, {1}!
 Your foe's weak!<<n>>Get 'em, {1}!
-Your foe's weak!<<n>>Get 'em, {1}!
+Il nemico è debole!<<n>>Finiscilo, {1}!
 Items can't be used here.
-Items can't be used here.
+Gli strumenti non possono essere utilizzati qui.
 {1} withdrew {2}!
-{1} withdrew {2}!
+{1} ritira {2}!
 {1}, that's enough!<<n>>Come back!
-{1}, that's enough!<<r>><<n>>Come back!
+{1}, hai fatto abbastanza!<<r>><<n>>Ritorna!
 The sunlight faded.
-The sunlight faded.
+La luce del sole svanisce.
 {1} was hurt by the sunlight!
-{1} was hurt by the sunlight!
+{1} è danneggiato dalla luce del sole!
 The rain stopped.
-The rain stopped.
+Smette di piovere.
 Rain continues to fall.
-Rain continues to fall.
+Continua a piovere.
 The sandstorm subsided.
-The sandstorm subsided.
+La tempesta di sabbia si placa.
 The sandstorm rages.
-The sandstorm rages.
+La tempesta di sabbia infuria.
 {1} was buffeted by the sandstorm!
-{1} was buffeted by the sandstorm!
+{1} è colpito dalla tempesta di sabbia!
 The hail stopped.
-The hail stopped.
+La tempesta di grandine si placa.
 Hail continues to fall.
-Hail continues to fall.
+La grandina continua a cadere.
 {1} was pelted by hail!
-{1} was pelted by hail!
+{1} è colpito dalla grandine!
 The shadow sky faded.
-The shadow sky faded.
+Il cielo oscuro svanisce.
 The shadow sky continues.
-The shadow sky continues.
+Il cielo continua ad essere scuro.
 {1} was hurt by the shadow sky.
-{1} was hurt by the shadow sky.
+{1} subisce danni dal cielo oscuro.
 {1} took the {2} attack!
-{1} took the {2} attack!
+{1} incassa l'attacco {2}!
 {1}'s Rain Dish restored its HP a little!
-{1}'s Rain Dish restored its HP a little!
+Copripioggia di {1} ripristina un po' dei suoi PS!
 {1}'s Dry Skin was healed by the rain!
-{1}'s Dry Skin was healed by the rain!
+Pellearsa di {1} lo cura grazie alla pioggia!
 {1}'s Dry Skin was hurt by the sunlight!
-{1}'s Dry Skin was hurt by the sunlight!
+Pellearsa di {1} lo danneggia a causa del sole!
 {1}'s Ice Body restored its HP a little!
-{1}'s Ice Body restored its HP a little!
+Corpogelo di {1} ripristina un po' dei suoi PS!
 {1}'s Wish came true!
-{1}'s Wish came true!
+Desiderio di {1} si avvera!
 {1}'s HP is full!
-{1}'s HP is full!
+I PS di {1} sono pieni!
 {1}'s Shed Skin cured its sleep problem!
-{1}'s Shed Skin cured its sleep problem!
+Muta di {1} lo cura dal sonno!
 {1}'s Shed Skin cured its ice problem!
-{1}'s Shed Skin cured its ice problem!
+Muta di {1} lo cura dal congelamento!
 {1}'s Shed Skin cured its burn problem!
-{1}'s Shed Skin cured its burn problem!
+Muta di {1} lo cura dalla scottatura!
 {1}'s Shed Skin cured its poison problem!
-{1}'s Shed Skin cured its poison problem!
+Muta di {1} lo cura dall'avvelenamento!
 {1}'s Shed Skin cured its paralysis problem!
-{1}'s Shed Skin cured its paralysis problem!
+Muta di {1} lo cura dalla paralisi!
 {1}'s Hydration cured its sleep problem!
-{1}'s Hydration cured its sleep problem!
+Idratazione di {1} lo cura dal sonno!
 {1}'s Hydration cured its ice problem!
-{1}'s Hydration cured its ice problem!
+Idratazione di {1} lo cura dal congelamento!
 {1}'s Hydration cured its burn problem!
-{1}'s Hydration cured its burn problem!
+Idratazione di {1} lo cura dalla scottatura!
 {1}'s Hydration cured its poison problem!
-{1}'s Hydration cured its poison problem!
+Idratazione di {1} lo cura dall'avvelenamento!
 {1}'s Hydration cured its paralysis problem!
-{1}'s Hydration cured its paralysis problem!
+Idratazione di {1} lo cura dalla paralisi!
 {1}'s Healer cured its partner's sleep problem!
-{1}'s Healer cured its partner's sleep problem!
+Curacuore di {1} cura il suo compagno dal sonno!
 {1}'s Healer cured its partner's ice problem!
-{1}'s Healer cured its partner's ice problem!
+Curacuore di {1} cura il suo compagno dal congelamento!
 {1}'s Healer cured its partner's burn problem!
-{1}'s Healer cured its partner's burn problem!
+Curacuore di {1} cura il suo compagno dalla scottatura!
 {1}'s Healer cured its partner's poison problem!
-{1}'s Healer cured its partner's poison problem!
+Curacuore di {1} cura il suo compagno dall'avvelenamento!
 {1}'s Healer cured its partner's paralysis problem!
-{1}'s Healer cured its partner's paralysis problem!
+Curacuore di {1} cura il suo compagno dalla paralisi!
 {1}'s Aqua Ring restored its HP a little!
-{1}'s Aqua Ring restored its HP a little!
+Acquanello di {1} ripristina un po' dei suoi PS!
 {1} absorbed nutrients with its roots!
-{1} absorbed nutrients with its roots!
+{1} assorbe nutrienti con le sue radici!
 {1} sucked up the liquid ooze!
-{1} sucked up the liquid ooze!
+{1} ha assorbito la Melma!
 {1}'s health is sapped by Leech Seed!
-{1}'s health is sapped by Leech Seed!
+La salute di {1} è estratta da Parassiseme!
 {1} is healed by poison!
-{1} is healed by poison!
+{1} si è curato dall'avvelenamento!
 {1} is hurt by poison!
-{1} is hurt by poison!
+{1} è colpito dall'avvelenamento!
 {1} is hurt by its burn!
-{1} is hurt by its burn!
+{1} è colpito dalla scottatura!
 {1} is locked in a nightmare!
-{1} is locked in a nightmare!
+{1} è bloccato in un incubo!
 {1} is afflicted by the Curse!
-{1} is afflicted by the Curse!
+{1} è colpito da Maledizione!
 {1} was freed from {2}!
-{1} was freed from {2}!
+{1} si è liberato da {2}!
 {1} is hurt by {2}!
-{1} is hurt by {2}!
+{1} è colpito da {2}!
 {1} recovered from the taunting!
-{1} recovered from the taunting!
+Termina Provocazione su {1}!
 {1} stopped levitating.
-{1} stopped levitating.
+{1} non levita più.
 The embargo on {1} was lifted.
-The embargo on {1} was lifted.
+Termina Divieto su {1}.
 {1} fell asleep!
-{1} fell asleep!
+{1} si addormenta!!
 {1}'s Perish count fell to {2}!
-{1}'s Perish count fell to {2}!
+Il conteggio di Ultimocanto di {1} scende a {2}!
 Ally's Reflect faded!
-Ally's Reflect faded!
+Cade Riflesso alleato!
 Foe's Reflect faded!
-Foe's Reflect faded!
+Cade Riflesso nemico!
 Ally's Light Screen faded!
-Ally's Light Screen faded!
+Cade Schermoluce alleato!
 Foe's Light Screen faded!
-Foe's Light Screen faded!
+Cade Schermoluce nemico!
 Ally's party is no longer protected by Safeguard!
-Ally's party is no longer protected by Safeguard!
+La squadra alleata non è più protetta da Salvaguardia!
 Foe's party is no longer protected by Safeguard!
-Foe's party is no longer protected by Safeguard!
+La squadra nemica non è più protetta da Salvaguardia!
 Ally's Mist faded!
-Ally's Mist faded!
+Nebbia alleata svanisce!
 Foe's Mist faded!
-Foe's Mist faded!
+Nebbia nemica svanisce!
 Your team's Tailwind stopped blowing!
-Your team's Tailwind stopped blowing!
+Ventoincoda della tua squadra svanisce!
 The opposing team's Tailwind stopped blowing!
-The opposing team's Tailwind stopped blowing!
+Ventoincoda della squadra avversaria svanisce!
 Your team's Lucky Chant faded!
-Your team's Lucky Chant faded!
+Fortuncanto della tua squadra svanisce!
 The opposing team's Lucky Chant faded!
-The opposing team's Lucky Chant faded!
+Fortuncanto della squadra avversaria svanisce!
 Gravity returned to normal.
-Gravity returned to normal.
+La Gravità ritorna alla normalità.
 The area returned to normal.
-The area returned to normal.
+L'area ritorna alla normalità.
 {1} calmed down.
-{1} calmed down.
+{1} si calma.
 {1} is making an uproar!
-{1} is making an uproar!
+{1} sta facendo una Baraonda!
 {1}'s Speed Boost raised its Speed!
-{1}'s Speed Boost raised its Speed!
+Acceleratore di {1} aumenta la sua velocità!
 {1} is having a bad dream!
-{1} is having a bad dream!
+{1} sta avendo un incubo!
 Attack
-Attack
+Attacco
 Defense
-Defense
+Difesa
 Speed
-Speed
+Velocità
 Special Attack
-Special Attack
+Attacco Speciale
 Special Defense
-Special Defense
+Difesa Speciale
 accuracy
-accuracy
+precisione
 evasiveness
-evasiveness
+evasioni
 {1}'s Moody sharply raised its {2}!
-{1}'s Moody sharply raised its {2}!
+{2} aumenta di molto grazie ad Altalena di {1}!
 {1}'s Moody lowered its {2}!
-{1}'s Moody lowered its {2}!
+{2} cala a causa di {1}!
 {1} was poisoned by its {2}!
-{1} was poisoned by its {2}!
+{1} è stato avvelenato da {2}!
 {1} was burned by its {2}!
-{1} was burned by its {2}!
+{1} è stato bruciato da {2}!
 {1} is hurt by its {2}!
-{1} is hurt by its {2}!
+{1} è stato colpito da {2}!
 PkMn Trainer
-PkMn Trainer
+Allenatore PkMn
 {1} {2}
 {1} {2}
 {1} is already asleep!
-{1} is already asleep!
+{1} è già addormentato!
 But the uproar kept {1} awake!
-But the uproar kept {1} awake!
+Ma la Baraonda tiene {1} sveglio!
 {1} stayed awake using its {2}!
-{1} stayed awake using its {2}!
+{1} è rimasto sveglio grazie a {2}!
 {1}'s party is protected by Safeguard!
-{1}'s party is protected by Safeguard!
+La squadra di {1} è protetta da Salvaguardia!
 {1} is already poisoned.
-{1} is already poisoned.
+{1} è già avvelenato.
 {1}'s {2} prevents poisoning!
-{1}'s {2} prevents poisoning!
+{2} di {1} previene l'avvelenamento!
 {1}'s {2} had no effect on {3}!
-{1}'s {2} had no effect on {3}!
+{2} di {1} non ha effetto su {3}!
 {1}'s {2} prevents {3}'s {4} from working!
-{1}'s {2} prevents {3}'s {4} from working!
+{2} di {1} previene il funzionamento di {4} di {3}!
 {1} already has a burn.
-{1} already has a burn.
+{1} è già scottato.
 {1}'s {2} prevents burns!
-{1}'s {2} prevents burns!
+{2} di {1} previene la scottatura!
 {1} is already paralyzed!
-{1} is already paralyzed!
+{1} è già paralizzato!
 {1}'s {2} prevents paralysis!
-{1}'s {2} prevents paralysis!
+{2} di {1} previene la paralisi!
 {1} is already confused!
-{1} is already confused!
+{1} è già confuso!
 {1}'s {2} prevents confusion!
-{1}'s {2} prevents confusion!
+{2} di {1} previene la confusione!
 {1}'s Attack won't go higher!
-{1}'s Attack won't go higher!
+L'Attacco di {1} non può più salire!
 {1}'s Defense won't go higher!
-{1}'s Defense won't go higher!
+La Difesa di {1} non può più salire!
 {1}'s Speed won't go higher!
-{1}'s Speed won't go higher!
+La Velocità di {1} non può più salire!
 {1}'s Special Attack won't go higher!
-{1}'s Special Attack won't go higher!
+L'Attacco Speciale di {1} non può più salire!
 {1}'s Special Defense won't go higher!
-{1}'s Special Defense won't go higher!
+La Difesa Speciale di {1} non può più salire!
 {1}'s evasiveness won't go higher!
-{1}'s evasiveness won't go higher!
+L'evasione di {1} non può più salire!
 {1}'s accuracy won't go higher!
-{1}'s accuracy won't go higher!
+La precisione di {1} non può più salire!
 {1}'s Attack rose sharply!
-{1}'s Attack rose sharply!
+L'Attacco di {1} sale di molto!
 {1}'s Attack rose drastically!
-{1}'s Attack rose drastically!
+L'Attacco di {1} sale estremamente!
 {1}'s Defense rose sharply!
-{1}'s Defense rose sharply!
+La Difesa di {1} sale di molto!
 {1}'s Defense rose drastically!
-{1}'s Defense rose drastically!
+La Difesa di {1} sale estremamente!
 {1}'s Speed rose sharply!
-{1}'s Speed rose sharply!
+La Velocità di {1} sale di molto!
 {1}'s Speed rose drastically!
-{1}'s Speed rose drastically!
+La Velocità di {1} sale estremamente!
 {1}'s Special Attack rose sharply!
-{1}'s Special Attack rose sharply!
+L'Attacco Speciale di {1} sale di molto!
 {1}'s Special Attack rose drastically!
-{1}'s Special Attack rose drastically!
+L'Attacco Speciale di {1} sale estremamente!
 {1}'s Special Defense rose sharply!
-{1}'s Special Defense rose sharply!
+La Difesa Speciale di {1} sale di molto!
 {1}'s Special Defense rose drastically!
-{1}'s Special Defense rose drastically!
+La Difesa Speciale di {1} sale estremamente!
 {1}'s evasiveness rose!
-{1}'s evasiveness rose!
+L'evasione di {1} sale!
 {1}'s evasiveness rose sharply!
-{1}'s evasiveness rose sharply!
+L'evasione di {1} sale di molto!
 {1}'s evasiveness rose drastically!
-{1}'s evasiveness rose drastically!
+L'evasione di {1} sale estremamente!
 {1}'s accuracy rose sharply!
-{1}'s accuracy rose sharply!
+La precisione di {1} sale di molto!
 {1}'s accuracy rose drastically!
-{1}'s accuracy rose drastically!
+La precisione di {1} sale estremamente!
 {1} is protected by Mist!
-{1} is protected by Mist!
+{1} è protetto dalla Nebbia!
 {1}'s {2} prevents stat loss!
-{1}'s {2} prevents stat loss!
+{2} di {1} previene il calo di statistiche!
 {1}'s {2} prevents Attack loss!
-{1}'s {2} prevents Attack loss!
+{2} di {1} previene il calo dell'Attacco!
 {1}'s {2} prevents Defense loss!
-{1}'s {2} prevents Defense loss!
+{2} di {1} previene il calo della Difesa!
 {1}'s {2} prevents Accuracy loss!
-{1}'s {2} prevents Accuracy loss!
+{2} di {1} previene il calo della Precisione!
 {1}'s Attack won't go lower!
-{1}'s Attack won't go lower!
+L'Attacco di {1} non può più scendere!
 {1}'s Defense won't go lower!
-{1}'s Defense won't go lower!
+La Difesa di {1} non può più scendere!
 {1}'s Speed won't go lower!
-{1}'s Speed won't go lower!
+La Velocità di {1} non può più scendere!
 {1}'s Special Attack won't go lower!
-{1}'s Special Attack won't go lower!
+L'Attacco Speciale di {1} non può più scendere!
 {1}'s Special Defense won't go lower!
-{1}'s Special Defense won't go lower!
+La Difesa Speciale di {1} non può più scendere!
 {1}'s evasiveness won't go lower!
-{1}'s evasiveness won't go lower!
+L'evasione di {1} non può più scendere!
 {1}'s accuracy won't go lower!
-{1}'s accuracy won't go lower!
+La precisione di {1} non può più scendere!
 {1}'s Attack fell!
-{1}'s Attack fell!
+L'Attacco di {1} cala!
 {1}'s Attack harshly fell!
-{1}'s Attack harshly fell!
+L'Attacco di {1} cala di molto!
 {1}'s Defense fell!
-{1}'s Defense fell!
+La Difesa di {1} cala!
 {1}'s Defense harshly fell!
-{1}'s Defense harshly fell!
+La Difesa di {1} cala di molto!
 {1}'s Speed fell!
-{1}'s Speed fell!
+La Velocità di {1} cala!
 {1}'s Speed harshly fell!
-{1}'s Speed harshly fell!
+La Velocità di {1} cala di molto!
 {1}'s Special Attack fell!
-{1}'s Special Attack fell!
+L'Attacco Speciale di {1} cala!
 {1}'s Special Attack harshly fell!
-{1}'s Special Attack harshly fell!
+L'Attacco Specialedi {1} cala di molto!
 {1}'s Special Defense fell!
-{1}'s Special Defense fell!
+La Difesa Speciale di {1} cala!
 {1}'s Special Defense harshly fell!
-{1}'s Special Defense harshly fell!
+La Difesa Speciale di {1} cala di molto!
 {1}'s evasiveness fell!
-{1}'s evasiveness fell!
+L'evasione di {1} cala!
 {1}'s evasiveness harshly fell!
-{1}'s evasiveness harshly fell!
+L'evasione di {1} cala di molto!
 {1}'s accuracy fell!
-{1}'s accuracy fell!
+La precisione di {1} cala!
 {1}'s accuracy harshly fell!
-{1}'s accuracy harshly fell!
+La precisione di {1} cala di molto!
 {1}'s {2} prevented {3}'s {4} from working!
-{1}'s {2} prevented {3}'s {4} from working!
+{2} di {1} previene il funzionamento di {4} di {3}.
 {1}'s {2} cuts {3}'s Attack!
-{1}'s {2} cuts {3}'s Attack!
+{2} di {1} dimezza l'Attacco di {3}!
 {1} is eager for more!
-{1} is eager for more!
+{1} ne vuole ancora!
 {1} began growling deeply!
-{1} began growling deeply!
+{1} comincia a ruggire sonoramente!
 A glint appears in {1}'s eyes!
-A glint appears in {1}'s eyes!
+Appare un luccichio negli occhi di {1}!
 {1} is getting into position!
-{1} is getting into position!
+{1} prende una posizione!
 {1} tied the opponent<<n>>{2} in a referee's decision!
-{1} tied the opponent<<n>>{2} in a referee's decision!
+{1} pareggia con l'avversario<<n>>{2} per la decisione dell'arbitro!
 {1} defeated the opponent<<n>>{2} in a referee's decision!
-{1} defeated the opponent<<n>>{2} in a referee's decision!
+{1} sconfigge l'avversario<<n>>{2} per la decisione dell'arbitro!
 {1} lost to the opponent<<n>>{2} in a referee's decision!
-{1} lost to the opponent<<n>>{2} in a referee's decision!
+{1} perde contro l'avversario<<n>>{2} per la decisione dell'arbitro!
 VS
 VS
 Mind
-Mind
+Mente
 Skill
-Skill
+Abilità
 Body
-Body
+Corpo
 Judgment
-Judgment
+Giudizio
 REFEREE: {1} VS {2}!<<n>>Commence battling!\wtnp<<[>>20<<]>>
-REFEREE: {1} VS {2}!<<n>>Commence battling!\wtnp<<[>>20<<]>>
+ARBITRO: {1} VS {2}!<<n>>Cominciate!\wtnp<<[>>20<<]>>
 REFEREE: That's it! We will now go to judging to determine the winner!\wtnp[20]
-REFEREE: That's it! We will now go to judging to determine the winner!\wtnp[20]
+ARBITRO: Basta così! Ora giudicheremo per decretare il vincitore!\wtnp[20]
 REFEREE: Judging category 1, Mind!<<n>>The Pokemon showing the most guts!\wtnp<<[>>40<<]>>
-REFEREE: Judging category 1, Mind!<<n>>The Pokemon showing the most guts!\wtnp<<[>>40<<]>>
+ARBITRO: Giudichiamo la categoria 1, Mente!<<n>>Il Pokémon che ha mostrato più determinazione!\wtnp<<[>>40<<]>>
 REFEREE: Judging category 2, Skill!<<n>>The Pokemon using moves the best!\wtnp<<[>>40<<]>>
-REFEREE: Judging category 2, Skill!<<n>>The Pokemon using moves the best!\wtnp<<[>>40<<]>>
+ARBITRO: Giudichiamo la categoria 2, Abilità!<<n>>Il Pokémon che ha usato la mossa migliore!\wtnp<<[>>40<<]>>
 REFEREE: Judging category 3, Body!<<n>>The Pokemon with the most vitality!\wtnp<<[>>40<<]>>
-REFEREE: Judging category 3, Body!<<n>>The Pokemon with the most vitality!\wtnp<<[>>40<<]>>
+ARBITRO: Giudichiamo la categoria 3, Corpo!<<n>>Il Pokémon con l'energia più grande!\wtnp<<[>>40<<]>>
 REFEREE: Judgment: {1} to {2}!<<n>>We have a draw!\wtnp<<[>>40<<]>>
-REFEREE: Judgment: {1} to {2}!<<n>>We have a draw!\wtnp<<[>>40<<]>>
+ARBITRO: Giudizio: {1} a {2}!<<n>>Abbiamo un pareggio!\wtnp<<[>>40<<]>>
 REFEREE: Judgment: {1} to {2}!<<n>>The winner is {3}'s {4}!\wtnp<<[>>40<<]>>
-REFEREE: Judgment: {1} to {2}!<<n>>The winner is {3}'s {4}!\wtnp<<[>>40<<]>>
+REFEREE: Giudizio: {1} a {2}!<<n>>Il vincitore è {4} di {3}!\wtnp<<[>>40<<]>>
 REFEREE: Judgment: {1} to {2}!<<n>>The winner is {3}!\wtnp<<[>>40<<]>>
-REFEREE: Judgment: {1} to {2}!<<n>>The winner is {3}!\wtnp<<[>>40<<]>>
+REFEREE: Giudizio: {1} a {2}!<<n>>Il vincitore è {3}!\wtnp<<[>>40<<]>>
 {1} is struggling!
-{1} is struggling!
+{1} si sta sforzando!
 {1} is hit with recoil!
-{1} is hit with recoil!
+{1} subisce il rinculo!
 {1} went to sleep!
-{1} went to sleep!
+{1} si addormenta!
 {1} made {2} drowsy!
-{1} made {2} drowsy!
+{1} rende {2} assonnato!
 {1} is poisoned!
-{1} is poisoned!
+{1} è avvelenato!
 {1} is badly poisoned!
-{1} is badly poisoned!
+{1} è iperavvelenato!
 {1} is paralyzed! It may be unable to move!
-{1} is paralyzed!  It may be unable to move!
+{1} è paralizzato! Potrebbe non riuscire a muoversi!
 {1} was paralyzed! It may be unable to move!
-{1} was paralyzed!  It may be unable to move!
+{1} è stato paralizzato! Potrebbe non riuscire a muoversi!
 {1} was burned!
-{1} was burned!
+{1} è stato scottato!
 {1} was frozen solid!
-{1} was frozen solid!
+{1} è stato congelato!
 {1}'s {2} prevents flinching!
-{1}'s {2} prevents flinching!
+{2} di {1} evita il tentennamento!
 {1}'s {2} prevents romance!
-{1}'s {2} prevents romance!
+{2} di {1} evita l'infatuazione!
 {1} fell in love!
-{1} fell in love!
+{1} si è innamorato!
 {1}'s status returned to normal!
-{1}'s status returned to normal!
+Lo stato di {1} torna alla normalità!
 A soothing aroma wafted through the area!
-A soothing aroma wafted through the area!
+Un profumo rilassante viene trasportato attraverso l'area!
 A bell chimed!
-A bell chimed!
+Una campana suona!
 {1} was cured of its paralysis.
-{1} was cured of its paralysis.
+{1} è stato curato dalla paralisi.
 {1} was woken from its sleep.
-{1} was woken from its sleep.
+{1} è stato svegliato dal sonno.
 {1} was cured of its poisoning.
-{1} was cured of its poisoning.
+{1} è stato curato dall'avvelenamento.
 {1} was cured of its burn.
-{1} was cured of its burn.
+{1} è stato curato dalla scottatura.
 {1} was defrosted.
-{1} was defrosted.
+{1} è stato scongelato.
 The ally's party is covered by a veil!
-The ally's party is covered by a veil!
+La squadra alleata è coperta da un velo!
 The foe's party is covered by a veil!
-The foe's party is covered by a veil!
+La squadra nemica è coperta da un velo!
 {1} began charging power!
-{1} began charging power!
+{1} comincia a caricare l'energia!
 {1} is getting pumped!
-{1} is getting pumped!
+{1} si sta gonfiando!
 {1}'s stats won't go higher!
-{1}'s stats won't go higher!
+Le statistiche di {1} non possono più salire!
 {1} became nimble!
-{1} became nimble!
+{1} diventa più leggero!
 evasion
-evasion
+evasione
 {1}'s {2} rose sharply!
-{1}'s {2} rose sharply!
+{2} di {1} sale di molto!
 {1} cut its own HP and maximized its Attack!
-{1} cut its own HP and maximized its Attack!
+{1} dimezza i PS e massimizza l'Attacco!
 {1}'s stats won't go lower!
-{1}'s stats won't go lower!
+Le statistiche di {1} non possono più scendere!
 {1}'s stat changes were removed!
-{1}'s stat changes were removed!
+I cambiamenti alle statistiche di {1} sono state rimossi!
 All stat changes were eliminated!
-All stat changes were eliminated!
+Tutti i cambiamenti alle statistiche sono eliminati!
 {1} switched its stat boosts with {2}!
-{1} switched its stat boosts with {2}!
+{1} scambia i suoi aumenti di statistiche con {2}!
 {1} copied {2}'s stat changes!
-{1} copied {2}'s stat changes!
+{1} copia i cambiamenti alle statistiche di {2}!
 Your team became shrouded in mist!
-Your team became shrouded in mist!
+La tua squadra viene avvolta dalla nebbia!
 The foe's team became shrouded in mist!
-The foe's team became shrouded in mist!
+La squadra avversaria viene avvolta dalla nebbia!
 {1} switched its Attack and Defense!
-{1} switched its Attack and Defense!
+{1} ha invertito il suo Attacco e Difesa!
 {1} shared its power with the target!
-{1} shared its power with the target!
+{1} ha condiviso il suo potere con il bersaglio!
 {1} shared its guard with the target!
-{1} shared its guard with the target!
+{1} ha condiviso la sua guardia con il bersaglio!
 The battlers shared their pain!
-The battlers shared their pain!
+I lottatori condividono la loro sofferenza!
 The tailwind blew from behind your team!
-The tailwind blew from behind your team!
+Ventoincoda soffia da dietro la tua squadra!
 The tailwind blew from behind the opposing team!
-The tailwind blew from behind the opposing team!
+Ventoincoda soffia da dietro la squadra avversaria!
 {1} sketched {2}!
-{1} sketched {2}!
+{1} ha schizzato {2}!
 {1} transformed into the {2} type!
-{1} transformed into the {2} type!
+{1} si è trasformato nel tipo {2}!
 {1}'s type changed to match the target!
-{1}'s type changed to match the target!
+Il tipo di {1} è cambiato per corrispondere al bersaglio!
 {1} acquired {2}!
-{1} acquired {2}!
+{1} acquisisce {2}!
 {1} copied {2}'s {3}!
-{1} copied {2}'s {3}!
+{1} ha copiato {3} di {2}!
 {1} swapped its {2} ability with its target's {3} ability!
-{1} swapped its {2} ability with its target's {3} ability!
+{1} ha scambiato la sua abilità {2} con l'abilità {3} del suo bersaglio!
 {1}'s ability was suppressed!
-{1}'s ability was suppressed!
+L'abilità di {1} è stata soppressa!
 It's a one-hit KO!
-It's a one-hit KO!
+KO in un colpo!!
 {1} was protected by {2}!
-{1} was protected by {2}!
+{1} è stato protetto da {2}!
 {1} is unaffected!
-{1} is unaffected!
+Non è efficace su {1}!
 {1} was healed of paralysis!
-{1} was healed of paralysis!
+{1} è stato curato dalla paralisi!
 {1} had its HP restored.
-{1} had its HP restored.
+{1} ha recuperato i suoi PS.
 Magnitude {1}!
-Magnitude {1}!
+Magnitudo {1}!
 {1} is ready to help {2}!
-{1} is ready to help {2}!
+{1} è pronto per aiutare {2}!
 Electricity's power was weakened!
-Electricity's power was weakened!
+Il potere dell'elettricità è stato indebolito!
 Fire's power was weakened!
-Fire's power was weakened!
+Il potere del fuoco è stato indebolito!
 The Lucky Chant shielded your team from critical hits!
-The Lucky Chant shielded your team from critical hits!
+Fortuncanto protegge la tua squadra dai colpi critici!
 The Lucky Chant shielded the foe's team from critical hits!
-The Lucky Chant shielded the foe's team from critical hits!
+Fortuncanto protegge squadra nemica dai colpi critici!
 Ally's Reflect raised Defense!
-Ally's Reflect raised Defense!
+Riflesso alleato aumenta la Difesa!
 Foe's Reflect raised Defense!
-Foe's Reflect raised Defense!
+Riflesso nemico aumenta la Difesa!
 Ally's Light Screen raised Special Defense!
-Ally's Light Screen raised Special Defense!
+Schermoluce alleato aumenta la Difesa Speciale!
 Foe's Light Screen raised Special Defense!
-Foe's Light Screen raised Special Defense!
+Schermoluce nemico aumenta la Difesa Speciale!
 {1} took aim at {2}!
-{1} took aim at {2}!
+{1} prende la mira su {2}!
 {1} was identified!
-{1} was identified!
+{1} è stato identificato!
 The mirror move failed!
-The mirror move failed!
+La mossa specchio fallisce!
 {1} shrouded itself in Magic Coat!
-{1} shrouded itself in Magic Coat!
+{1} si copre con Magivelo!
 {1} waits for a target to make a move!
-{1} waits for a target to make a move!
+{1} aspetta che un bersaglio faccia una mossa!
 {1} waits for its foe to make a move!
-{1} waits for its foe to make a move!
+{1} aspetta che il suo nemico faccia una mossa!
 {1} turned into {2}!
-{1} turned into {2}!
+{1} è diventato {2}!
 {1} was subjected to Torment!
-{1} was subjected to Torment!
+{1} è soggetto ad Attaccalite!
 {1} sealed the opponent's move(s)!
-{1} sealed the opponent's move(s)!
+{1} ha sigillato la mossa avversaria!
 {1}'s {2} was disabled!
-{1}'s {2} was disabled!
+{2} di {1} è stato disabilitato!
 {1} fell for the taunt!
-{1} fell for the taunt!
+{1} subisce la Provocazione!
 {1} was prevented from healing!
-{1} was prevented from healing!
+A {1} è stato impedito di curarsi!
 {1} got an encore!
-{1} got an encore!
+{1} subisce Ripeti!
 {1} consumed its {2}!
-{1} consumed its {2}!
+{1} ha usato {2}!
 {1} whipped up a whirlwind!
-{1} whipped up a whirlwind!
+{1} genera un turbine!
 {1} took in sunlight!
 {1} took in sunlight!
 {1} became cloaked in a freezing light!
-{1} became cloaked in a freezing light!
+{1} Viene ricoperto da una luce congelante!
 {1} became cloaked in freezing air!
-{1} became cloaked in freezing air!
+{1} viene ricoperto da un'aria congelante!
 {1} is glowing!
-{1} is glowing!
+{1} è raggiante!
 {1} lowered its head!
-{1} lowered its head!
+{1} ha abbassato la testa!
 {1} flew up high!
-{1} flew up high!
+{1} vola in alto!
 {1} dug a hole!
-{1} dug a hole!
+{1} scava una buca!
 {1} hid underwater!
-{1} hid underwater!
+{1} si nasconde sott'acqua!
 {1} sprang up!
-{1} sprang up!
+{1} spunta fuori!
 {1} vanished instantly!
-{1} vanished instantly!
+{1} svanisce nel nulla!
 {1} was squeezed by {2}!
-{1} was squeezed by {2}!
+{1} è stritolato da {2}!
 {1} clamped {2}!
-{1} clamped {2}!
+{1} stritola {2}!
 {1} was trapped in the vortex!
-{1} was trapped in the vortex!
+{1} è stato intrappolato in un vortice!
 {1} was trapped by Magma Storm!
-{1} was trapped by Magma Storm!
+{1} è stato intrappolato da Magmaclisma!
 {1} was trapped by Sand Tomb!
-{1} was trapped by Sand Tomb!
+{1} è stato intrappolato da Sabbiotomba!
 {1} was wrapped by {2}!
-{1} was wrapped by {2}!
+{1} è stato intrappolato da {2}!
 {1} caused an uproar!
-{1} caused an uproar!
+{1} scatena una Baraonda!
 {1} became confused due to fatigue!
-{1} became confused due to fatigue!
+{1} diventa confuso per la fatica!
 {1} unleashed energy!
-{1} unleashed energy!
+{1} rilascia energia!
 {1} is storing energy!
-{1} is storing energy!
+{1} sta immagazzinando energia!
 {1} slept and became healthy!
-{1} slept and became healthy!
+{1} si addormenta e ritorna in salute!
 {1} surrounded itself with a veil of water!
-{1} surrounded itself with a veil of water!
+{1} si circonda con un velo d'acqua!
 {1} planted its roots!
-{1} planted its roots!
+{1} pianta le radici!
 {1} was seeded!
-{1} was seeded!
+{1} è stato cosparso di semi!
 It sucked up the liquid ooze!
-It sucked up the liquid ooze!
+Ha assorbito la Melma!
 {1} had its energy drained!
-{1} had its energy drained!
+L'energia di {1} è stata assorbita!
 {1}'s dream was eaten!
-{1}'s dream was eaten!
+Il sogno di {1} è stato mangiato!
 {1}'s {2} prevents {3} from using {4}!
-{1}'s {2} prevents {3} from using {4}!
+{2} di {1} non permette a {3} di usare {4}!
 But it had no effect!
-But it had no effect!
+Ma non ha avuto nessun effetto!
 All affected Pokémon will faint in three turns!
-All affected Pokémon will faint in three turns!
+Tutti i Pokémon colpiti saranno esausti in tre turni!
 {1} wants the opponent to bear a grudge!
-{1} wants the opponent to bear a grudge!
+{1} vuole che l'avversario gli riservi rancore!
 {1} is trying to take its foe with it!
-{1} is trying to take its foe with it!
+{1} sta cercando di prendere il suo nemico con se!
 {1} braced itself!
-{1} braced itself!
+{1} tiene duro!
 {1} fled from battle!
-{1} fled from battle!
+{1} fugge dalla lotta!
 {1} anchored itself with {2}!
-{1} anchored itself with {2}!
+{1} si ancora con {2}!
 {1} anchored itself with its roots!
-{1} anchored itself with its roots!
+{1} si ancora con le sue radici!
 {1} was dragged out!
-{1} was dragged out!
+{1} è stato trascinato fuorit!
 {1} can't escape now!
-{1} can't escape now!
+{1} non può fuggire ora!
 {1} knocked off {2}'s {3}!
-{1} knocked off {2}'s {3}!
+{1} blocca {3} di {2}!
 {1} stole {2}'s {3}!
-{1} stole {2}'s {3}!
+{1} ha rubato {3} di {2}!
 {1} switched items with its opponent!
-{1} switched items with its opponent!
+{1} ha scambiato lo strumento con quello dell'avversario!
 {1} obtained {2}.
-{1} obtained {2}.
+{1} ha ottenuto {2}.
 {1} received {2} from {3}!
-{1} received {2} from {3}!
+{1} ha ricevuto {2} da {3}!
 {1} stole and ate its target's {2}!
-{1} stole and ate its target's {2}!
+{1} ruba e mangia {2} del suo bersaglio!
 {1}'s {2} was incinerated!
-{1}'s {2} was incinerated!
+{2} di {1} è stata incenerita!
 {1} found one {2}!
-{1} found one {2}!
+{1} ha trovato uno {2}!
 {1} flung its {2}!
-{1} flung its {2}!
+{1} lancia {2}!
 {1}'s {2} cured {3}'s love problem!
-{1}'s {2} cured {3}'s love problem!
+{2} di {1} ha curato l'infatuazione di {3}!
 {1}'s {2} restored {3}'s status!
-{1}'s {2} restored {3}'s status!
+{2} di {1} ha curato lo stato di {3}!
 {1} can't use items anymore!
-{1} can't use items anymore!
+{1} non può più usare strumenti!
 The area returned to normal!
-The area returned to normal!
+L'area ritorna alla normalità!
 It created a bizarre area in which Pokémon's held items lose their effects!
-It created a bizarre area in which Pokémon's held items lose their effects!
+Ha creato una strana area dove gli strumenti tenuti dai Pokémon sono senza effetto!
 The sunlight got bright!
-The sunlight got bright!
+La luce solare si intensifica!
 It started to rain!
-It started to rain!
+Ha cominciato a piovere!
 A sandstorm brewed!
-A sandstorm brewed!
+Una tempesta di sabbia si scatena!
 It started to hail!
-It started to hail!
+Ha cominciato a grandinare!
 Spikes were scattered all around the feet of the foe's team!
-Spikes were scattered all around the feet of the foe's team!
+Le punte sono state sparse ai piedi della squadra nemica!
 Poison spikes were scattered all around the foe's team's feet!
-Poison spikes were scattered all around the foe's team's feet!
+le fielepunte sono state sparse ai piedi della squadra nemica!
 Pointed stones float in the air around your foe's team!
-Pointed stones float in the air around your foe's team!
+Le rocce appuntite circondano la squadra nemica!
 Coins scattered everywhere!
-Coins scattered everywhere!
+Le monete si spargono ovunque!
 The opposing team's Reflect wore off!
-The opposing team's Reflect wore off!
+Cade Riflesso della squadra avversaria!
 The opposing team's Light Screen wore off!
-The opposing team's Light Screen wore off!
+Cade Schermoluce della squadra avversaria!
 {1} already has a Substitute!
-{1} already has a Substitute!
+{1} ha già un Sostituto!
 It was too weak to make a Substitute!
-It was too weak to make a Substitute!
+E' troppo debole per creare un Sostituto!
 {1} made a Substitute!
-{1} made a Substitute!
+{1} crea un Sostituto!
 {1} cut its own HP and laid a curse on {2}!
-{1} cut its own HP and laid a curse on {2}!
+{1} dimezza i suoi PS e lancia una maledizione su {2}!
 It reduced the PP of {1}'s {2} by {3}!
-It reduced the PP of {1}'s {2} by {3}!
+Ha ridotto i PP di {2} di {1} di {3}!
 {1} fell into a nightmare!
-{1} fell into a nightmare!
+{1} cade in un incubo!
 {1} got free of {2}'s {3}!
-{1} got free of {2}'s {3}!
+{1} Si libera di {3} di {2}!
 {1} shed Leech Seed!
-{1} shed Leech Seed!
+{1} si libera di Parassiseme!
 {1} blew away Spikes!
-{1} blew away Spikes!
+{1} lancia via le Punte!
 {1} blew away poison spikes!
-{1} blew away poison spikes!
+{1} Lancia via le Fielepunte!
 {1} blew away stealth rocks!
-{1} blew away stealth rocks!
+{1} lancia via le rocce!
 {1} foresaw an attack!
-{1} foresaw an attack!
+{1} prevede l'attacco!
 {1} chose Doom Desire as its destiny!
-{1} chose Doom Desire as its destiny!
+{1} sceglie Obbliderio come suo destino!
 {1} can't stockpile any more!
-{1} can't stockpile any more!
+{1} non può più accumulare!
 {1} stockpiled {2}!
-{1} stockpiled {2}!
+{1} ha accumulato {2}!
 But it failed to swallow a thing!
-But it failed to swallow a thing!
+Ma non riesce a ingerire niente!
 {1} lost its focus and couldn't move!
-{1} lost its focus and couldn't move!
+{1} perde la concentrazione e non riesce a muoversi!
 {1} is tightening its focus!
-{1} is tightening its focus!
+{1} sta rafforzando la sua concentrazione!
 {1} became the center of attention!
-{1} became the center of attention!
+{1} diventa il centro dell'attenzione!
 Gravity intensified!
-Gravity intensified!
+La Gravità si è intensificata!
 {1} levitated with electromagnetism!
-{1} levitated with electromagnetism!
+{1} levita con l'elettromagnetismo!
 {1} was hurled into the air!
-{1} was hurled into the air!
+{1} è stato scagliato in aria!
 {1} fell straight down!
-{1} fell straight down!
+{1} cade a terra!
 {1} was unaffected!
-{1} was unaffected!
+{1} è immune!
 The boxes are full! You can't catch any more Pokémon!
-The boxes are full!  You can't catch any more Pokémon!
+I box sono pieni! Non puoi più catturare nessun'altro Pokémon!
 {1} threw a rock at the wild {2}!
-{1} threw a rock at the wild {2}!
+{1} tira un sasso a {2} selvatico!
 {1} threw bait at the wild {2}!
-{1} threw bait at the wild {2}!
+{1} tira un esca a {2} selvatico!
 PA: You have no Safari Balls left! Game over!
-PA:  You have no Safari Balls left!  Game over!
+PA: Non hai più Safari Ball! Game over!
 Wild {1} fled!
-Wild {1} fled!
+{1} selvatico fugge!
 Wild {1} is eating!
-Wild {1} is eating!
+{1} selvatico sta mangiando!
 Wild {1} is angry!
-Wild {1} is angry!
+{1} selvatico è arrabbiato!
 Wild {1} is watching carefully!
-Wild {1} is watching carefully!
+{1} sta guardando con attenzione!
 Can't catch any more...
-Can't catch any more...
+Non puoi più catturare...
 But {1} couldn't sleep!
-But {1} couldn't sleep!
+Ma {1} non può dormire!
 {1}'s team was disqualified!
-{1}'s team was disqualified!
+La squadra di {1} è stata squalificata!
 Invalid quoted field (in: {1})
 Invalid quoted field (in: {1})
 Field {1} is not a positive integer
@@ -1758,357 +1759,357 @@ Field {1} is not a positive integer
 ${1}
 ${1}
 Money:<<n>><ar>{1}</ar>
-Money:<<n>><ar>{1}</ar>
+Soldi:<<n>><ar>{1}</ar>
 Coins:<<n>><ar>{1}</ar>
-Coins:<<n>><ar>{1}</ar>
+Gettoni:<<n>><ar>{1}</ar>
 OK
 OK
 Enter text using the keyboard. Press<<n>>ESC to cancel, or ENTER to confirm.
-Enter text using the keyboard.  Press<<n>>ESC to cancel, or ENTER to confirm.
+Scrivi il testo con la tastiera. Premi<<n>>ESC per cancellare, o INVIO per confermare.
 Enter text using the keyboard.<<n>>Press ENTER to confirm.
-Enter text using the keyboard.<<n>>Press ENTER to confirm.
+Scrivi il testo con la tastiera. Premi<<n>>Premi INVIO per confermare.
 UPPER
-UPPER
+ALTO
 lower
-lower
+basso
 other
-other
+altro
 Your name?
-Your name?
+Il tuo nome?
 Enter {1}'s name.
-Enter {1}'s name.
+Inserisci il nome di {1}.
 SKIPPING BATTLE...
 SKIPPING BATTLE...
 {1} has no usable Pokémon!<<1>>
-{1} has no usable Pokémon!<<1>>
+{1} non ha Pokémon attivi!<<1>>
 {1} survived the poisoning.\<<n>>The poison faded away!\<<1>>
-{1} survived the poisoning.\<<n>>The poison faded away!\<<1>>
+{1} è sopravvissuto all'avvelenamento.\<<n>>Il veleno se n'è andato!\<<1>>
 {1} fainted...\<<1>>
-{1} fainted...\<<1>>
+{1} è esausto...\<<1>>
 Not even a nibble...
-Not even a nibble...
+Nemmeno una scarpa vecchia...
 Oh! A bite!
-<<r>><<n>>Oh!  A bite!
+<<r>><<n>>Oh! Ha abboccato!
 It got away...
-It got away...
+Se n'è andato...
 A Pokémon's on the hook!
-A Pokémon's on the hook!
+C'è un Pokémon attaccato all'amo!
 \w[]\wm\c[8]\l[3]After the unfortunate defeat, {1} scurried to a Pokémon Center.
-\w[]\wm\c[8]\l[3]After the unfortunate defeat, {1} scurried to a Pokémon Center.
+\w[]\wm\c[8]\l[3]Dopo la sconfitta, {1} corre ad un Centro Pokémon.
 \w[]\wm\c[8]\l[3]{1} scurried to a Pokémon Center, protecting the exhausted and fainted Pokémon from further harm.
-\w[]\wm\c[8]\l[3]{1} scurried to a Pokémon Center, protecting the exhausted and fainted Pokémon from further harm.
+\w[]\wm\c[8]\l[3]{1} corre ad un Centro Pokémon, proteggendo i suoi stanchi ed esausti Pokémon da ulteriori pericoli.
 Can't find the map 'Map{1:03d}' in the Data folder. The game will resume at the player's position.
-Can't find the map 'Map{1:03d}' in the Data folder.  The game will resume at the player's position.
+Non trovo la mappa 'Map{1:03d}' nella cartella "Data". Il gioco ricomincerà nella posizione precedente del giocatore.
 \w[]\wm\c[8]\l[3]After the unfortunate defeat, {1} scurried home.
-\w[]\wm\c[8]\l[3]After the unfortunate defeat, {1} scurried home.
+\w[]\wm\c[8]\l[3]Dopo la sconfitta, {1} corre fino a casa.
 \w[]\wm\c[8]\l[3]{1} scurried home, protecting the exhausted and fainted Pokémon from further harm.
-\w[]\wm\c[8]\l[3]{1} scurried home, protecting the exhausted and fainted Pokémon from further harm.
+\w[]\wm\c[8]\l[3]{1} corre fino a casa, proteggendo i suoi stanchi ed esausti Pokémon da ulteriori pericoli.
 The game has detected that the battery is low. You should save soon to avoid losing your progress.
-The game has detected that the battery is low.  You should save soon to avoid losing your progress.
+Il gioco ha rilevato che la batteria è scarica. Dovresti salvare al più presto per evitare di perdere i tuoi progressi.
 Recording in {1:d} second(s)...<<n>>Press ESC to cancel.
-Recording in {1:d} second(s)...<<n>>Press ESC to cancel.
+Registrazione in {1:d} secondi...<<n>>Premi ESC per cancellare.
 NOW RECORDING<<n>>Press ESC to stop recording.
-NOW RECORDING<<n>>Press ESC to stop recording.
+REGISTRAZIONE IN CORSO<<n>>Premi ESC per fermare la registrazione.
 PLAYING BACK...
 PLAYING BACK...
 \se<<[>>itemlevel<<]>>{1} found \c<<[>>2<<]>>{2}\c<<[>>0<<]>>!\<<n>>It contained \c<<[>>2<<]>>{3}\c<<[>>0<<]>>.\wtnp<<[>>30<<]>>
-\se<<[>>itemlevel<<]>>{1} found \c<<[>>2<<]>>{2}\c<<[>>0<<]>>!\<<n>>It contained \c<<[>>2<<]>>{3}\c<<[>>0<<]>>.\wtnp<<[>>30<<]>>
+\se<<[>>itemlevel<<]>>{1} ha trovato \c<<[>>2<<]>>{2}\c<<[>>0<<]>>!\<<n>>Conteneva \c<<[>>2<<]>>{3}\c<<[>>0<<]>>.\wtnp<<[>>30<<]>>
 {1} put the {2}<<n>>in the <icon=bagPocket#{pocket}>{3} Pocket.
-{1} put the {2}<<r>><<n>>in the <icon=bagPocket#{pocket}>{3} Pocket.
+{1} mette {2}<<r>><<n>>nella <icon=bagPocket#{pocket}>Tasca {3}.
 \se[itemlevel]{1} found some \c[2]{2}\c[0]!\wtnp[30]
-\se[itemlevel]{1} found some \c[2]{2}\c[0]!\wtnp[30]
+\se[itemlevel]{1} ha trovato dei \c[2]{2}\c[0]!\wtnp[30]
 \se[itemlevel]{1} found {2} \c[2]{3}\c[0]!\wtnp[30]
-\se[itemlevel]{1} found {2} \c[2]{3}\c[0]!\wtnp[30]
+\se[itemlevel]{1} ha trovato {2} \c[2]{3}\c[0]!\wtnp[30]
 \se[itemlevel]{1} found {2} \c[2]{3}s\c[0]!\wtnp[30]
-\se[itemlevel]{1} found {2} \c[2]{3}s\c[0]!\wtnp[30]
+\se[itemlevel]{1} ha trovato {2} \c[2]{3}s\c[0]!\wtnp[30]
 {1} put the {2}s<<n>>in the <icon=bagPocket#{pocket}>{3} Pocket.
-{1} put the {2}s<<r>><<n>>in the <icon=bagPocket#{pocket}>{3} Pocket.
+{1} mette {2}s<<r>><<n>>nella <icon=bagPocket#{pocket}>Tasca {3}.
 \se[itemlevel]{1} found one \c[2]{2}\c[0]!\wtnp[30]
-\se[itemlevel]{1} found one \c[2]{2}\c[0]!\wtnp[30]
+\se[itemlevel]{1} ha trovato uno \c[2]{2}\c[0]!\wtnp[30]
 {1} found \c[2]{2}\c[0]!\wtnp[20]
-{1} found \c[2]{2}\c[0]!\wtnp[20]
+{1} ha trovato \c[2]{2}\c[0]!\wtnp[20]
 {1} found some \c[2]{2}\c[0]!\wtnp[20]
-{1} found some \c[2]{2}\c[0]!\wtnp[20]
+{1} ha trovato alcuni \c[2]{2}\c[0]!\wtnp[20]
 {1} found {2} \c[2]{3}\c[0]!\wtnp[20]
-{1} found {2} \c[2]{3}\c[0]!\wtnp[20]
+{1} ha trovato {2} \c[2]{3}\c[0]!\wtnp[20]
 {1} found {2} \c[2]{3}s\c[0]!\wtnp[20]
-{1} found {2} \c[2]{3}s\c[0]!\wtnp[20]
+{1} ha trovato {2} \c[2]{3}s\c[0]!\wtnp[20]
 {1} found one \c[2]{2}\c[0]!\wtnp[20]
-{1} found one \c[2]{2}\c[0]!\wtnp[20]
+{1} ha trovato uno \c[2]{2}\c[0]!\wtnp[20]
 Too bad... The Bag is full...
-Too bad... The Bag is full...
+Peccato... Lo Zaino è pieno...
 \se<<[>>itemlevel<<]>>Obtained \c<<[>>2<<]>>{1}\c<<[>>0<<]>>!\<<n>>It contained \c<<[>>2<<]>>{2}\c<<[>>0<<]>>.\wtnp<<[>>30<<]>>
-\se<<[>>itemlevel<<]>>Obtained \c<<[>>2<<]>>{1}\c<<[>>0<<]>>!\<<n>>It contained \c<<[>>2<<]>>{2}\c<<[>>0<<]>>.\wtnp<<[>>30<<]>>
+\se<<[>>itemlevel<<]>>Ottenuto \c<<[>>2<<]>>{1}\c<<[>>0<<]>>!\<<n>>Conteneva \c<<[>>2<<]>>{2}\c<<[>>0<<]>>.\wtnp<<[>>30<<]>>
 \se[itemlevel]Obtained some \c[2]{1}\c[0]!\wtnp[30]
-\se[itemlevel]Obtained some \c[2]{1}\c[0]!\wtnp[30]
+\se[itemlevel]Ottenuti alcuni \c[2]{1}\c[0]!\wtnp[30]
 \se[itemlevel]Obtained \c[2]{1}\c[0]!\wtnp[30]
-\se[itemlevel]Obtained \c[2]{1}\c[0]!\wtnp[30]
+\se[itemlevel]Ottenuti \c[2]{1}\c[0]!\wtnp[30]
 \se[itemlevel]Obtained \c[2]{1}s\c[0]!\wtnp[30]
-\se[itemlevel]Obtained \c[2]{1}s\c[0]!\wtnp[30]
+\se[itemlevel]Ottenuti \c[2]{1}s\c[0]!\wtnp[30]
 A Key Item in the Bag can be registered to this key for instant use.
-A Key Item in the Bag can be registered to this key for instant use.
+Uno Strumento Base nello Zaino può essere selezionato a questo pulsante per un uso istantaneo.
 This tree looks like it can be cut down!<<1>>
-This tree looks like it can be cut down!<<1>>
+Sembra che questo albero si possa tagliare!<<1>>
 Would you like to cut it?
-Would you like to cut it?
+Vuoi usare Taglio?
 {1} used Cut!
-{1} used Cut!
+{1} usa Taglio!
 This tree looks like it can be cut down.
-This tree looks like it can be cut down.
+Sembra che questo albero si possa tagliare.
 Sorry, a new Badge is required.
-Sorry, a new Badge is required.
+Mi dispiace, è necessaria una nuova Medaglia.
 Can't use that here.
-Can't use that here.
+Non puoi usarlo qui.
 {1} used {2}!
-{1} used {2}!
+{1} usa {2}!
 Nope. Nothing...
-Nope.  Nothing...
+No. Niente...
 A Pokémon could be in this tree. Want to headbutt it?
-A Pokémon could be in this tree.  Want to headbutt it?
+Potrebbe esserci un Pokémon in questo albero. Vuoi usare Bottintesta?
 {1} did a headbutt!
-{1} did a headbutt!
+{1} usa Bottintesta!
 A Pokémon could be in this tree. Maybe a Pokémon could shake it.
-A Pokémon could be in this tree.  Maybe a Pokémon could shake it.
+Potrebbe esserci un Pokémon in questo albero. Forse un Pokémon potrebbe smuoverlo.
 This rock appears breakable. Would you like to use Rock Smash?
-This rock appears breakable.  Would you like to use Rock Smash?
+Questa roccia sembra fragile. Vuoi usare Spaccaroccia?
 {1} used Rock Smash!
-{1} used Rock Smash!
+{1} usa Spaccaroccia!
 It's a rugged rock, but a Pokémon may be able to smash it.
-It's a rugged rock, but a Pokémon may be able to smash it.
+E' una roccia un po' grande, ma un Pokémon potrebbe romperla.
 Strength made it possible to move boulders around.
-Strength made it possible to move boulders around.
+Forza ora ti permette di spostare i massi.
 It's a big boulder, but a Pokémon may be able to push it aside.
-It's a big boulder, but a Pokémon may be able to push it aside.
+E' un masso enorme, ma un Pokémon potrebbe spingerla via.
 Would you like to use Strength?
-Would you like to use Strength?
+Vuoi usare Forza?
 {1} used Strength!<<1>>
-{1} used Strength!<<1>>
+{1} usa Forza!<<1>>
 {1}'s Strength made it possible to move boulders around!
-{1}'s Strength made it possible to move boulders around!
+Forza di {1} ora permette di spostare i massi!
 Strength is already being used.
-Strength is already being used.
+Forza è già in uso.
 {1} used {2}!<<1>>
-{1} used {2}!<<1>>
+{1} usa {2}!<<1>>
 The water is dyed a deep blue... Would you like to surf?
-The water is dyed a deep blue...  Would you like to surf?
+L'acqua è calma e navigabile... vuoi usare Surf?
 {1} used Surf!
-{1} used Surf!
+{1} usa Surf!
 You're already surfing.
-You're already surfing.
+Stai già usando Surf.
 It can't be used when you have someone with you.
-It can't be used when you have someone with you.
+Non puoi usarla quando c'è qualcuno assieme a te.
 Let's enjoy cycling!
-Let's enjoy cycling!
+Divertiamoci a pedalare!
 No surfing here!
-No surfing here!
+Niente Surf qui!
 It's a large waterfall. Would you like to use Waterfall?
-It's a large waterfall.  Would you like to use Waterfall?
+E' una cascata enorme. vuoi usare Cascata?
 {1} used Waterfall.
-{1} used Waterfall.
+{1} usa Cascata.
 A wall of water is crashing down with a mighty roar.
-A wall of water is crashing down with a mighty roar.
+Un muro d'acqua si frantuma a terra, generando un forte rumore.
 {1} used {2}.
-{1} used {2}.
+{1} usa {2}.
 The sea is deep here. Would you like to use Dive?
-The sea is deep here.  Would you like to use Dive?
+Il mare è profondo qui. Vuoi usare Sub?
 {1} used Dive.
-{1} used Dive.
+{1} usa Sub.
 The sea is deep here. A Pokémon may be able to go underwater.
-The sea is deep here.  A Pokémon may be able to go underwater.
+Il mare è profondo qui. Un Pokémon potrebbe andare sott'acqua.
 Light is filtering down from above. Would you like to use Dive?
-Light is filtering down from above.  Would you like to use Dive?
+La luce penetra dall'alto. Vuoi usare Sub?
 Light is filtering down from above. A Pokémon may be able to surface here.
-Light is filtering down from above.  A Pokémon may be able to surface here.
+La luce penetra dall'alto. Un Pokémon potrebbe essere in grado di risalire.
 This is in use already.
-This is in use already.
+E' già in uso.
 Want to return to the healing spot used last in {1}?
-Want to return to the healing spot used last in {1}?
+Vuoi tornare al punto di cura usato per ultimo a {1}?
 Want to escape from here and return to {1}?
-Want to escape from here and return to {1}?
+Vuoi fuggire da qui e tornare a {1}?
 There appears to be nothing here...
-There appears to be nothing here...
+Sembra che non ci sia niente qui...
 Encounter type out of range
 Encounter type out of range
 Cheri Berries
-Cheri Berries
+Baccaliegia
 Chesto Berries
-Chesto Berries
+Baccastagna
 Pecha Berries
-Pecha Berries
+Baccapesca
 Rawst Berries
-Rawst Berries
+Baccafrago
 Aspear Berries
-Aspear Berries
+Baccaperina
 Leppa Berries
-Leppa Berries
+Baccamela
 Oran Berries
-Oran Berries
+Baccarancia
 Persim Berries
-Persim Berries
+Baccaki
 Lum Berries
-Lum Berries
+Baccaprugna
 Sitrus Berries
-Sitrus Berries
+Baccacedro
 Figy Berries
-Figy Berries
+Baccafico
 Wiki Berries
-Wiki Berries
+Baccakiwi
 Mago Berries
-Mago Berries
+Baccamango
 Aguav Berries
-Aguav Berries
+Baccaguava
 Iapapa Berries
-Iapapa Berries
+Baccapaia
 Razz Berries
-Razz Berries
+Baccalampon
 Bluk Berries
-Bluk Berries
+Baccamora
 Nanab Berries
-Nanab Berries
+Baccabana
 Wepear Berries
-Wepear Berries
+Baccapera
 Pinap Berries
-Pinap Berries
+Baccananas
 Pomeg Berries
-Pomeg Berries
+Baccagrana
 Kelpsy Berries
-Kelpsy Berries
+Baccalga
 Qualot Berries
-Qualot Berries
+Baccaloquat
 Hondew Berries
-Hondew Berries
+Baccamelon
 Grepa Berries
-Grepa Berries
+Baccauva
 Tamato Berries
-Tamato Berries
+Baccamodoro
 Cornn Berries
-Cornn Berries
+Baccavena
 Magost Berries
-Magost Berries
+Baccagostan
 Rabuta Berries
-Rabuta Berries
+Baccambutan
 Nomel Berries
-Nomel Berries
+Baccalemon
 Spelon Berries
-Spelon Berries
+Baccamelos
 Pamtre Berries
-Pamtre Berries
+Baccapalma
 Watmel Berries
-Watmel Berries
+Baccacomero
 Durin Berries
-Durin Berries
+Baccadurian
 Belue Berries
-Belue Berries
+Baccartillo
 Occa Berries
-Occa Berries
+Baccacao
 Passho Berries
-Passho Berries
+Baccapasflo
 Wacan Berries
-Wacan Berries
+Baccaparmen
 Rindo Berries
-Rindo Berries
+Baccarindo
 Yache Berries
-Yache Berries
+Baccamoya
 Chople Berries
-Chople Berries
+Baccarosmel
 Kebia Berries
-Kebia Berries
+Baccakebia
 Shuca Berries
-Shuca Berries
+Baccanaca
 Coba Berries
-Coba Berries
+Baccababa
 Payapa Berries
-Payapa Berries
+Baccapapaya
 Tanga Berries
-Tanga Berries
+Baccaitan
 Charti Berries
-Charti Berries
+Baccaciofo
 Kasib Berries
-Kasib Berries
+Baccacitrus
 Haban Berries
-Haban Berries
+Baccahaban
 Colbur Berries
-Colbur Berries
+Baccaxan
 Babiri Berries
-Babiri Berries
+Baccababiri
 Chilan Berries
-Chilan  Berries
+Baccacinlan
 Liechi Berries
-Liechi Berries
+Baccalici
 Ganlon Berries
-Ganlon Berries
+Baccalongan
 Salac Berries
-Salac Berries
+Baccasalak
 Petaya Berries
-Petaya Berries
+Baccapitaya
 Apicot Berries
-Apicot Berries
+Baccacocca
 Lansat Berries
-Lansat Berries
+Baccalangsa
 Starf Berries
-Starf Berries
+Baccambola
 Enigma Berries
-Enigma Berries
+Baccaenigma
 Micle Berries
-Micle Berries
+Baccaracolo
 Custap Berries
-Custap Berries
+Baccacrela
 Jacoba Berries
-Jacoba Berries
+Baccajaba
 Rowap Berries
-Rowap Berries
+Baccaroam
 It's soft, loamy soil.<<n>>Plant a berry?
-It's soft, loamy soil.<<n>>Plant a berry?
+Il terreno è soffice e fertile.<<n>>Vuoi piantare una bacca?
 {1} planted a {2} in the soft loamy soil.
-{1} planted a {2} in the soft loamy soil.
+{1} pianta {2} nel terreno.
 A {1} was planted here.
-A {1} was planted here.
+Una {1} è stata piantata qui.
 The {1} has sprouted.
-The {1} has sprouted.
+La {1} ha germogliato.
 The {1} plant is growing bigger.
-The {1} plant is growing bigger.
+La pianta di {1} sta crescendo.
 This {1} plant is in fabulous bloom!
-This {1} plant is in fabulous bloom!
+Questa pianta di {1} sta fiorendo!
 This {1} plant is blooming very beautifully!
-This {1} plant is blooming very beautifully!
+Questa pianta di {1} sta avendo dei bellissimi fiori!
 This {1} plant is blooming prettily!
-This {1} plant is blooming prettily!
+Questa pianta di {1} sta fiorendo bene!
 This {1} plant is blooming cutely!
-This {1} plant is blooming cutely!
+Questa pianta di {1} sta fiorendo discretamente!
 This {1} plant is in bloom!
-This {1} plant is in bloom!
+Questa pianta di {1} sta fiorendo!
 There are {1} {2}!
-There are {1} {2}!
+Ci sono {1} {2}!
 Would you like to pick the berries?
-Would you like to pick the berries?
+Vuoi raccogliere le bacche?
 There is 1 {1}!
-There is 1 {1}!
+C'è 1 {1}!
 Would you like to pick the berry?
-Would you like to pick the berry?
+Vuoi raccogliere la bacca?
 Too bad...<<n>>The bag is full.
-Too bad...<<n>>The bag is full.
+Peccato...<<n>>Lo zaino è pieno.
 {1} picked {2} {3}!\wtnp[30]
-{1} picked {2} {3}!\wtnp[30]
+{1} raccoglie {2} {3}!\wtnp[30]
 {1} put the {2} {3} in the Berries Pocket.<<1>>
-{1} put the {2} {3} in the Berries Pocket.<<1>>
+{1} mette {2} {3} nella Tasca Bacche.<<1>>
 {1} picked the {2}!\wtnp[30]
-{1} picked the {2}!\wtnp[30]
+{1} raccoglie {2}!\wtnp[30]
 {1} put the {2} in the Berries Pocket.<<1>>
-{1} put the {2} in the Berries Pocket.<<1>>
+{1} mette {2} nella Tasca Bacche.<<1>>
 The soil returned to its soft and loamy state.<<1>>
-The soil returned to its soft and loamy state.<<1>>
+Il terreno è tornato soffice e fertile.<<1>>
 Would you like to water the {1} plant with the {2}?
-Would you like to water the {1} plant with the {2}?
+Vuoi annaffiare la pianta di {1} con  l'{2}?
 {1} watered the plant.\wtnp[40]
-{1} watered the plant.\wtnp[40]
+{1} innaffia la pianta.\wtnp[40]
 The plant seemed to be delighted.
-The plant seemed to be delighted.
+La pianta sembra essere davvero contenta.
 unknown berries
-unknown berries
+bacche sconosciute
 The player trainer was not defined, so the menu can't be displayed.
-The player trainer was not defined, so the menu can't be displayed.
+L'allenatore del giocatore non è stato definito, quindi il menu non può essere mostrato.
 Please see the documentation to learn how to set up the trainer player.
-Please see the documentation to learn how to set up the trainer player.
+Leggete la documentazione per imparare a inserire l'allenatore del giocatore.
 Pokédex
 Pokédex
 Pokégear
@@ -2116,47 +2117,47 @@ Pokégear
 Balls: {1}
 Balls: {1}
 Steps: {1}/{2}<<n>>Balls: {3}
-Steps: {1}/{2}<<n>>Balls: {3}
+Passi: {1}/{2}<<n>>Ball: {3}
 Quit
-Quit
+Esci
 Caught: {1}<<n>>Level: {2}<<n>>Balls: {3}
-Caught: {1}<<n>>Level: {2}<<n>>Balls: {3}
+Catturato: {1}<<n>>Level: {2}<<n>>Ball: {3}
 Caught: None<<n>>Balls: {1}
-Caught: None<<n>>Balls: {1}
+Catturato: Nessuno<<n>>Ball: {1}
 Save
-Save
+Salva
 Options
-Options
+Opzioni
 Debug
 Debug
 Exit
-Exit
+Esci
 Would you like to leave the Safari Game right now?
-Would you like to leave the Safari Game right now?
+Vuoi lasciare la Zona Safari?
 Would you like to end the Contest now?
-Would you like to end the Contest now?
+Vuoi terminare il Contest?
 <c3=F8F8F8,C02028>SEEN<r>OBTAINED</c3>
-<c3=F8F8F8,C02028>SEEN<r>OBTAINED</c3>
+<c3=F8F8F8,C02028>VISTI<r>OTTENUTI</c3>
 {1:03d}{2:s} {3:s}
 {1:03d}{2:s} {3:s}
 {1:03d} ----------
-{1:03d}  ----------
+{1:03d} ----------
 Graphics/Pictures/pokedexEntry
 Graphics/Pictures/pokedexEntry
 <ac>Search Mode</ac>
-<ac>Search Mode</ac>
+<ac>Modalità Ricerca</ac>
 pokedexSearchbg
 pokedexSearchbg
 pokedexbg
 pokedexbg
 Seen:<r>{1:d}
-Seen:<r>{1:d}
+Visti:<r>{1:d}
 Owned:<r>{1:d}
-Owned:<r>{1:d}
+Posseduti:<r>{1:d}
 <ac>{1:s}</ac>
 <ac>{1:s}</ac>
 <ac>{1:s} - Search results</ac>
-<ac>{1:s} - Search results</ac>
+<ac>{1:s} - Cerca risultati</ac>
 ABC
 ABC
 DEF
@@ -2176,39 +2177,39 @@ VWX
 YZ
 YZ
 Search
-Search
+Cerca
 Name: {1:s}
-Name: {1:s}
+Nome: {1:s}
 Color: {1:s}
-Color: {1:s}
+Colore: {1:s}
 Type 1: {1:s}
-Type 1: {1:s}
+Tipo 1: {1:s}
 Type 2: {1:s}
-Type 2: {1:s}
+Tipo 2: {1:s}
 Order: {1:s}
-Order: {1:s}
+Ordine: {1:s}
 Start Search
-Start Search
+Comincia la Ricerca
 Sort
-Sort
+Suddividi
 Start Sort
-Start Sort
+Comincia Suddivisione
 Search for Pokémon based on selected parameters.
-Search for Pokémon based on selected parameters.
+Cerca Pokémon basati sui parametri selezionati.
 List by the first letter in the name.<<n>>Spotted Pokémon only.
-List by the first letter in the name.<<r>><<n>>Spotted Pokémon only.
+In ordine per iniziale.<<r>><<n>>Solo Pokémon segnati.
 List by body color.<<n>>Spotted Pokémon only.
-List by body color.<<r>><<n>>Spotted Pokémon only.
+In ordine per colore.<<r>><<n>>Solo Pokémon segnati
 List by type.<<n>>Owned Pokémon only.
-List by type.<<r>><<n>>Owned Pokémon only.
+In ordine per tipo.<<r>><<n>>Solo Pokémon posseduti.
 Select the Pokédex listing mode.
-Select the Pokédex listing mode.
+Scegli il tipo di ordine del Pokédex.
 Execute search.
-Execute search.
+Esegui ricerca.
 Switch Pokédex listings.
-Switch Pokédex listings.
+Cambia ordine del Pokédex.
 Execute sort.
-Execute sort.
+Esegui divisione.
 HT
 HT
 WT
@@ -2218,7 +2219,7 @@ WT
 {1:d}'{2:02d}"
 {1:d}'{2:02d}"
 {1:4.1f} lbs.
-{1:4.1f} lbs.
+{1:4.1f}
 {1:.1f} m
 {1:.1f} m
 {1:.1f} kg
@@ -2240,111 +2241,111 @@ Graphics/Pictures/pokedexentry
 Graphics/Pictures/pokedexBlank
 Graphics/Pictures/pokedexBlank
 Don't specify
-Don't specify
+Non specifica
 None
-None
+Nessuno
 Normal
-Normal
+Normale
 Fighting
-Fighting
+Lotta
 Flying
-Flying
+Volante
 Poison
-Poison
+Veleno
 Ground
-Ground
+Terra
 Bug
-Bug
+Coleottero
 Ghost
-Ghost
+Spettro
 Steel
-Steel
+Acciaio
 Fire
-Fire
+Fuoco
 Water
-Water
+Acqua
 Grass
-Grass
+Erba
 Electric
-Electric
+Elettro
 Psychic
-Psychic
+Psico
 Ice
-Ice
+Ghiaccio
 Dragon
-Dragon
+Drago
 Dark
-Dark
+Oscurià
 Red
-Red
+Rosso
 Blue
-Blue
+Blu
 Yellow
-Yellow
+Giallo
 Green
-Green
+Verde
 Black
-Black
+Nero
 Brown
-Brown
+Marrone
 Purple
-Purple
+Viola
 Gray
-Gray
+Grigio
 White
-White
+Bianco
 Pink
-Pink
+Rosa
 Numeric Mode
-Numeric Mode
+Modalità Numerica
 A to Z Mode
-A to Z Mode
+Modalità A-Z
 Heaviest Mode
-Heaviest Mode
+Modalità Peso maggiore
 Lightest Mode
-Lightest Mode
+Modalità Peso minore
 Tallest Mode
-Tallest Mode
+Modalità Più alto
 Smallest Mode
-Smallest Mode
+Modalità Più basso
 Pokémon are listed according to their number.
-Pokémon are listed according to their number.
+I Pokémon sono ordinati a seconda del loro numero
 Spotted and owned Pokémon are listed alphabetically.
-Spotted and owned Pokémon are listed alphabetically.
+I Pokémon segnati e posseduti sono in ordine alfabetico
 Owned Pokémon are listed from heaviest to lightest.
-Owned Pokémon are listed from heaviest to lightest.
+I Pokémon posseduti sono in ordine dal più pesante al più leggero.
 Owned Pokémon are listed from lightest to heaviest.
-Owned Pokémon are listed from lightest to heaviest.
+I Pokémon posseduti sono in ordine dal più leggero al più pesante.
 Owned Pokémon are listed from tallest to smallest.
-Owned Pokémon are listed from tallest to smallest.
+I Pokémon posseduti sono in ordine dal più alto al più basso.
 Owned Pokémon are listed from smallest to tallest.
-Owned Pokémon are listed from smallest to tallest.
+I Pokémon posseduti sono in ordine dal più basso al più alto.
 No matching Pokémon were found.
-No matching Pokémon were found.
+Nessun Pokémon corrispondente è stato trovato.
 Graphics/Pictures/pokedexNest
 Graphics/Pictures/pokedexNest
 {1}'s nest
-{1}'s nest
+Nido di {1}
 Graphics/Pictures/pokedexForm
 Graphics/Pictures/pokedexForm
 {1} Male
-{1} Male
+{1} Maschio
 {1} Female
-{1} Female
+{1} Femmina
 Male
-Male
+Maschio
 Female
-Female
+Femmina
 One Form
-One Form
+Un Genere
 Genderless
-Genderless
+Senza Genere
 Pokémon already has mail
-Pokémon already has mail
+Il Pokémon ha già una lettera
 CANCEL
-CANCEL
+CANCELLA
 CONFIRM
-CONFIRM
+CONFERMA
 Graphics/Pictures/statuses
 Graphics/Pictures/statuses
 {1: 3d}/{2: 3d}
@@ -2352,355 +2353,355 @@ Graphics/Pictures/statuses
 Lv.{1}
 Lv.{1}
 Please enter a message (max. {1} characters).
-Please enter a message (max. {1} characters).
+Inserisci un messaggio (max. {1} caratteri).
 Please enter a message (max. 256 characters).
-Please enter a message (max. 256 characters).
+Inserisci un messaggio (max. 256 caratteri).
 Stop giving the Pokémon Mail?
-Stop giving the Pokémon Mail?
+Non vuoi dare la Lettera Pokémon?
 {1} isn't holding anything.
-{1} isn't holding anything.
+{1} non sta tenendo niente.
 The Bag is full. The Pokémon's item could not be removed.
-The Bag is full.  The Pokémon's item could not be removed.
+Lo Zaino è pieno. Lo strumento non può essere rimosso.
 Send the removed mail to your PC?
-Send the removed mail to your PC?
+Vuoi mandare la lettera rimossa al tuo PC?
 Your PC's Mailbox is full.
-Your PC's Mailbox is full.
+Il Box Mail del tuo PC è pieno.
 The mail was sent to your PC.
-The mail was sent to your PC.
+La Lettera è stata mandata al tuo PC.
 If the mail is removed, the message will be lost. OK?
-If the mail is removed, the message will be lost.  OK?
+Se rimuoverai la Lettera, il messaggio andrà perso. OK?
 Mail was taken from the Pokémon.
-Mail was taken from the Pokémon.
+La Lettera è stata presa dal Pokémon.
 Received the {1} from {2}.
-Received the {1} from {2}.
+Ricevuto {1} da {2}.
 Eggs can't hold items.
-Eggs can't hold items.
+Un Uovo non può tenere strumenti.
 Mail must be removed before holding an item.
-Mail must be removed before holding an item.
+La Lettera deve essere rimossa prima di poter tenere uno strumento.
 {1} is already holding one {2}.<<1>>
-{1} is already holding one {2}.<<1>>
+{1} sta già tenendo {2}.<<1>>
 Would you like to switch the two items?
-Would you like to switch the two items?
+Vuoi scambiare i due strumenti?
 Can't re-store deleted item in bag
-Can't re-store deleted item in bag
+Non è possibile rimettere nello zaino lo strumento cancellato
 The {1} was taken and replaced with the {2}.
-The {1} was taken and replaced with the {2}.
+Hai preso {1} e l'hai rimpiazzato con {2}.
 {1} was given the {2} to hold.
-{1} was given the {2} to hold.
+A {1} è stato dato {2} da tenere.
 Give to which Pokémon?
-Give to which Pokémon?
+Dare a quale Pokémon?
 This Pokémon is holding an item. It can't hold mail.
-This Pokémon is holding an item.  It can't hold mail.
+Questo Pokémon sta già tenendo uno strumento. Non può tenere una Lettera.
 Eggs can't hold mail.
-Eggs can't hold mail.
+Un Uovo non può tenere una Lettera.
 Mail was transferred from the Mailbox.
-Mail was transferred from the Mailbox.
+La lettera è stata trasferita al Box Mail.
 {1} (PP: ---)
 {1} (PP: ---)
 {1} (PP: {2}/{3})
 {1} (PP: {2}/{3})
 INELIGIBLE
-INELIGIBLE
+NON QUALIFICATO
 NOT ENTERED
-NOT ENTERED
+NON INSERITO
 BANNED
-BANNED
+BANNATO
 FIRST
-FIRST
+PRIMO
 SECOND
-SECOND
-THIRD
+SECONDO
+TERZO
 THIRD
 FOURTH
-FOURTH
+QUARTO
 FIFTH
-FIFTH
+QUINTO
 SIXTH
-SIXTH
+SESTO
 Choose Pokémon and confirm.
-Choose Pokémon and confirm.
+Scegli i Pokémon e conferma.
 Entry
-Entry
+Inserisci
 No Entry
-No Entry
+Nessuna voce
 No more than {1} Pokémon may enter.
-No more than {1} Pokémon may enter.
+Non possono essere inseriti più di {1} Pokémon.
 ABLE
-ABLE
+CAPACE
 NOT ABLE
-NOT ABLE
+NON CAPACE
 Choose Pokémon or cancel.
-Choose Pokémon or cancel.
+Scegli il Pokémon o cancella.
 This Pokémon can't be chosen.
-This Pokémon can't be chosen.
+Questo Pokémon non può essere scelto.
 HP/Status
-HP/Status
+PS/Stato
 Level
-Level
+Livello
 Species
-Species
+Specie
 Moves
-Moves
+Mosse
 Gender
-Gender
+Genere
 Ability
-Ability
+Abilità
 Nature
-Nature
+Natura
 Shininess
-Shininess
+Shiny
 Form
-Form
+Forma
 Happiness
-Happiness
+Felicità
 EV/IV/pID
 EV/IV/pID
 Pokérus
 Pokérus
 Ownership
-Ownership
+Proprietario
 Nickname
-Nickname
+Soprannome
 Poké Ball
 Poké Ball
 Ribbons
-Ribbons
+Fiocchi
 Egg
-Egg
+Uovo
 Shadow Pokémon
-Shadow Pokémon
+Pokémon Ombra
 Make Mystery Gift
-Make Mystery Gift
+Crea Dono Segreto
 Duplicate
-Duplicate
+Duplica
 Delete
-Delete
+Cancella
 Set HP
-Set HP
+Inserisci PS
 Status: Sleep
-Status: Sleep
+Stato: Addormentato
 Status: Poison
-Status: Poison
+Stato: Avvelenato
 Status: Burn
-Status: Burn
+Stato: Scottato
 Status: Paralysis
-Status: Paralysis
+Stato: Paralizzato
 Status: Frozen
-Status: Frozen
+Stato: Congelato
 Fainted
-Fainted
+Esausto
 Heal
-Heal
+Cura
 Set the Pokémon's HP (max. {1}).
-Set the Pokémon's HP (max. {1}).
+Inserisci PS del Pokémon (max. {1}).
 {1}'s HP was set to {2}.
-{1}'s HP was set to {2}.
+I PS di {1} sono stati inseriti a {2}.
 Set the Pokémon's sleep count.
-Set the Pokémon's sleep count.
+Inserisci il conto del Pokémon addormentato.
 {1}'s status was changed.
-{1}'s status was changed.
+Lo stato di {1} è stato cambiato.
 {1}'s status could not be changed.
-{1}'s status could not be changed.
+Lo stato di {1} non può essere cambiato.
 {1}'s HP was set to 0.
-{1}'s HP was set to 0.
+I PS di {1} sono stati inseriti a 0.
 {1} was fully healed.
-{1} was fully healed.
+{1} è stato curato completamente
 Set the Pokémon's level (max. {1}).
-Set the Pokémon's level (max. {1}).
+Inserisci il Livello del Pokémon (max. {1}).
 {1}'s level was set to {2}.
-{1}'s level was set to {2}.
+Il Livello di {1} è stato inserito a {2}.
 {1}'s species was changed to {2}.
-{1}'s species was changed to {2}.
+La specie di {1} è stata cambiata in {2}.
 Teach move
-Teach move
+Insegna mossa
 Forget move
-Forget move
+Dimentica mossa
 Reset movelist
-Reset movelist
+Resetta lista mosse
 Choose move to forget.
-Choose move to forget.
+Scegli la mossa da dimenticare.
 {1}'s moves were reset.
-{1}'s moves were reset.
+Le mosse di {1} sono state resettate.
 {1} is genderless.
-{1} is genderless.
+{1} è senza genere.
 male
-male
+maschio
 female
-female
+femmina
 Gender {1} is natural.
-Gender {1} is natural.
+Il genere {1} è naturale.
 Gender {1} is being forced.
-Gender {1} is being forced.
+Il genere {1} è stato forzato.
 Make male
-Make male
+Fa diventare maschio
 Make female
-Make female
+Fa diventare femmina
 Remove override
-Remove override
+Rimuovi genere
 {1} is now male.
-{1} is now male.
+{1} è ora un maschio.
 {1}'s gender couldn't be changed.
-{1}'s gender couldn't be changed.
+Il genere di {1} non può essere cambiato.
 {1} is now female.
-{1} is now female.
+{1} è ora una femmina.
 Gender override removed.
-Gender override removed.
+Il genere è stato rimosso.
 Ability {1} is natural.
-Ability {1} is natural.
+L'abilità {1} è naturale.
 Ability {1} is being forced.
-Ability {1} is being forced.
+L'abilità {1} è stata forzata.
 Nature {1} is natural.
-Nature {1} is natural.
+La natura {1} è naturale.
 Nature {1} is being forced.
-Nature {1} is being forced.
+La natura {1} è stata forzata.
 shiny
 shiny
 normal
-normal
+normale
 Shininess ({1}) is natural.
-Shininess ({1}) is natural.
+Lo shiny ({1}) è naturale.
 Shininess ({1}) is being forced.
-Shininess ({1}) is being forced.
+Lo shiny ({1}) è stato forzato.
 Make shiny
-Make shiny
+Fa diventare Shiny
 Make normal
-Make normal
+Fa diventare normale
 Set the Pokémon's form.
-Set the Pokémon's form.
+Inserisci la forma del Pokémon
 {1}'s form was set to {2}.
-{1}'s form was set to {2}.
+La forma di {1} è stata inserita in {2}.
 Set the Pokémon's happiness (max. 255).
-Set the Pokémon's happiness (max. 255).
+Inserisci la felicità del Pokémon (max. 255).
 {1}'s happiness was set to {2}.
-{1}'s happiness was set to {2}.
+La felicità di {1} è stata inserita a {2}.
 HP
-HP
+PS
 Sp. Attack
-Sp. Attack
+Attacco Sp.
 Sp. Defense
-Sp. Defense
+Difesa Sp.
 Personal ID is {1}.
-Personal ID is {1}.
+L'ID Personale è {1}.
 Set EVs
-Set EVs
+Inserisci EVs
 Set IVs
-Set IVs
+Inserisci IVs
 Randomise pID
-Randomise pID
+pID casuale
 Change which EV?
-Change which EV?
+Quale EV vuoi cambiare?
 Set the EV for {1} (max. 255).
-Set the EV for {1} (max. 255).
+Inserisci EV per {1} (max. 255).
 Hidden Power:<<n>>{1}, power {2}.
-Hidden Power:<<n>>{1}, power {2}.
+Introforza:<<n>>{1}, forza {2}.
 Randomise all
-Randomise all
+Tutto casuale
 Set the IV for {1} (max. 31).
-Set the IV for {1} (max. 31).
+Inserisci IV per {1} (max. 31).
 {1} doesn't have Pokérus.
-{1} doesn't have Pokérus.
+{1} non ha il Pokérus.
 Has strain {1}, infectious for {2} more days.
-Has strain {1}, infectious for {2} more days.
+Ha un forte {1}, contagioso per altri {2} giorni.
 Has strain {1}, not infectious.
-Has strain {1}, not infectious.
+Ha un forte {1}, non è contagioso.
 Give random strain
 Give random strain
 Make not infectious
-Make not infectious
+Rendi non contagioso
 Clear Pokérus
-Clear Pokérus
+Cura Pokérus
 Unknown
-Unknown
+Sconosciuto
 Player's Pokémon.<<n>>{1}<<n>>{2}<<n>>{3} ({4}).
-Player's Pokémon.<<n>>{1}<<n>>{2}<<n>>{3} ({4}).
+Pokémon del giocatore.<<n>>{1}<<n>>{2}<<n>>{3} ({4}).
 Foreign Pokémon.<<n>>{1}<<n>>{2}<<n>>{3} ({4}).
-Foreign Pokémon.<<n>>{1}<<n>>{2}<<n>>{3} ({4}).
+Pokémon stranieri.<<n>>{1}<<n>>{2}<<n>>{3} ({4}).
 Make player's
-Make player's
+Crea giocatore
 Set OT's name
-Set OT's name
+Inserisci nome AO
 Set OT's gender
-Set OT's gender
+Inserisci genere AO
 Random foreign ID
-Random foreign ID
+ID straniero casuale
 Set foreign ID
-Set foreign ID
+Inserire ID straniero
 {1}'s OT's name?
-{1}'s OT's name?
+Il nome dell'AO è {1}?
 Set OT's gender.
-Set OT's gender.
+Inserisci genere AO.
 Set the new ID (max. 65535).
-Set the new ID (max. 65535).
+Inserisci nuovo ID (max. 65535).
 {1} has the nickname {2}.
-{1} has the nickname {2}.
+{1} è soprannominato {2}.
 {1} has no nickname.
-{1} has no nickname.
+{1} non ha un soprannome.
 Rename
-Rename
+Rinomina
 Erase name
-Erase name
+Cancella nome
 {1} used.
-{1} used.
+Hai usato {1}
 {1} ribbons.
-{1} ribbons.
+{1} fiocchi.
 Not an egg
-Not an egg
+Non è un uovo
 Egg with eggsteps: {1}.
-Egg with eggsteps: {1}.
+Uovo con passi per schiusa: {1}.
 Make egg
-Make egg
+Crea uovo
 Make Pokémon
-Make Pokémon
+Crea Pokémon
 Set eggsteps to 1
-Set eggsteps to 1
+Inserisci i passi per schiusa ad 1
 {1} cannot be an egg. Make egg anyway?
-{1} cannot be an egg. Make egg anyway?
+{1} non può essere un uovo. Vuoi creare comunque un uovo?
 Not a Shadow Pokémon.
-Not a Shadow Pokémon.
+Non è un Pokémon Ombra.
 Heart gauge is {1}.
-Heart gauge is {1}.
+La Stima Cuore è{1}.
 Make Shadow
-Make Shadow
+Crea Ombra
 Lower heart gauge
-Lower heart gauge
+Abbassa Stima Cuore
 {1} is now a Shadow Pokémon.
-{1} is now a Shadow Pokémon.
+{1} ora è un Pokémon Ombra.
 {1} is already a Shadow Pokémon.
-{1} is already a Shadow Pokémon.
+{1} è già un Pokémon Ombra.
 {1}'s heart gauge was lowered from {2} to {3} (now stage {4}).
-{1}'s heart gauge was lowered from {2} to {3} (now stage {4}).
+La Stima Cuore di {1} è stata diminuita da {2} a {3} (ora fase {4}).
 {1} is not a Shadow Pokémon.
-{1} is not a Shadow Pokémon.
+{1} non è un Pokémon Ombra.
 Are you sure you want to copy this Pokémon?
-Are you sure you want to copy this Pokémon?
+Sei sicuro di voler copiare questo Pokémon?
 The Pokémon was duplicated.
-The Pokémon was duplicated.
+Il Pokémon è stato doppiato.
 Are you sure you want to delete this Pokémon?
-Are you sure you want to delete this Pokémon?
+Se sicuro di voler cancellare questo Pokémon?
 The Pokémon was deleted.
-The Pokémon was deleted.
+Il Pokémon è stato cancellato
 Switch
-Switch
+Scambia
 Item
-Item
+Strumenti
 Not enough HP...
-Not enough HP...
+Non ha abbastanza PS...
 This item can't be used on that Pokémon.
-This item can't be used on that Pokémon.
+Non puoi usare questo strumento su quel Pokémon.
 {1}'s HP was restored by {2} points.
-{1}'s HP was restored by {2} points.
+I PS di {1} si sono rigenerati di {2} punti.
 Move to where?
-Move to where?
+Spostare dove?
 Do what with the mail?
-Do what with the mail?
+Cosa vuoi fare con la lettera?
 Read
-Read
+Leggi
 Take
-Take
+Prendi
 Do what with an item?
-Do what with an item?
+Cosa fare con lo strumento?
 Give
-Give
+Dai
 INFO
 INFO
 Dex No.
@@ -2708,33 +2709,33 @@ Dex No.
 {1:03d}
 {1:03d}
 Type
-Type
+Tipo
 OT
-OT
+AO
 ID No.
 ID No.
 Heart Gauge
-Heart Gauge
+Stima Cuore
 The door to its heart is open! Undo the final lock!
-The door to its heart is open! Undo the final lock!
+La porta al suo cuore è aperta! Apri l'ultima serratura!
 The door to its heart is almost fully open.
-The door to its heart is almost fully open.
+La porta al suo cuore è quasi completamente aperta.
 The door to its heart is nearly open.
-The door to its heart is nearly open.
+La porta al suo cuore è aperta di poco.
 The door to its heart is opening wider.
-The door to its heart is opening wider.
+La porta al suo cuore si sta aprendo...
 The door to its heart is opening up.
-The door to its heart is opening up.
+La porta al suo cuore è socchiusa.
 The door to its heart is tightly shut.
-The door to its heart is tightly shut.
+La porta al suo cuore è saldamente chiusa.
 <c3=404040,B0B0B0>{1}
 <c3=404040,B0B0B0>{1}<<n>>
 Exp. Points
-Exp. Points
+Punti Esp.
 {1:d}
 {1:d}
 To Next Lv.
-To Next Lv.
+Al prossimo Lv.
 RENTAL
 RENTAL
 TRAINER MEMO
@@ -2742,105 +2743,105 @@ TRAINER MEMO
 <c3=404040,B0B0B0>{1} {2}, {3}
 <c3=404040,B0B0B0>{1} {2}, {3}<<n>>
 <c3=404040,B0B0B0>A mysterious Pokémon Egg received from <c3=F83820,E09890>{1}<c3=404040,B0B0B0>.
-<c3=404040,B0B0B0>A mysterious Pokémon Egg received from <c3=F83820,E09890>{1}<c3=404040,B0B0B0>.<<n>>
+<c3=404040,B0B0B0>Un misterioso Uovo Pokémon ricevuto da <c3=F83820,E09890>{1}<c3=404040,B0B0B0>.<<n>>
 <c3=404040,B0B0B0>
 <c3=404040,B0B0B0><<n>>
 <c3=404040,B0B0B0>"The Egg Watch"
-<c3=404040,B0B0B0>"The Egg Watch"<<n>>
+<c3=404040,B0B0B0>"Osservazione dell'Uovo"<<n>>
 It looks like this Egg will take a long time to hatch.
-It looks like this Egg will take a long time to hatch.
+Sembra che ci voglia ancora del tempo prima che si schiuda.
 What will hatch from this? It doesn't seem close to hatching.
-What will hatch from this?  It doesn't seem close to hatching.
+Cosa nascerà? Ancora manca un po' di tempo.
 It appears to move occasionally. It may be close to hatching.
-It appears to move occasionally.  It may be close to hatching.
+Sembra che si stia muovendo. Forse manca poco.
 Sounds can be heard coming from inside! It will hatch soon!
-Sounds can be heard coming from inside!  It will hatch soon!
+Si sentono dei suoni dall'interno! Si schiuderà molto presto!
 <c3=F83820,E09890>{1}<c3=404040,B0B0B0> nature.
-<c3=F83820,E09890>{1}<c3=404040,B0B0B0> nature.<<n>>
+Natura <c3=F83820,E09890>{1}<c3=404040,B0B0B0>.<<n>>
 <c3=F83820,E09890>{1}
 <c3=F83820,E09890>{1}<<n>>
 <c3=F83820,E09890>Faraway place
 <c3=F83820,E09890>Faraway place<<n>>
 Met at Lv. {1}.
-Met at Lv. {1}.
+Incontrato al Lv. {1}.
 Egg received.
-Egg received.
+Uovo ricevuto
 Traded at Lv. {1}.
-Traded at Lv. {1}.
+Scambiato al Lv. {1}.
 Had a fateful encounter at Lv. {1}.
-Had a fateful encounter at Lv. {1}.
+Incontro fatidico al Lv. {1}.
 <c3=404040,B0B0B0>Egg hatched.
-<c3=404040,B0B0B0>Egg hatched.<<n>>
+<c3=404040,B0B0B0>Uovo schiuso.<<n>>
 Loves to eat.
 Loves to eat.
 Often dozes off.
-Often dozes off.
+Si addormenta spesso.
 Often scatters things.
-Often scatters things.
+Dorme a lungo.
 Scatters things often.
-Scatters things often.
+Lascia cose in giro.
 Likes to relax.
-Likes to relax.
+Adora rilassarsi.
 Proud of its power.
-Proud of its power.
+La forza è il suo vanto.
 Likes to thrash about.
-Likes to thrash about.
+Adora dimenarsi.
 A little quick tempered.
-A little quick tempered.
+Si arrabbia facilmente.
 Likes to fight.
-Likes to fight.
+Adora combattere.
 Quick tempered.
-Quick tempered.
+Facilmente irritabile.
 Sturdy body.
-Sturdy body.
+Ha un corpo robusto.
 Capable of taking hits.
-Capable of taking hits.
+Forte in attacco.
 Highly persistent.
-Highly persistent.
+Molto ostinato.
 Good endurance.
-Good endurance.
+Molto paziente.
 Good perseverance.
-Good perseverance.
+Molto tenace.
 Likes to run.
-Likes to run.
+Adora correre.
 Alert to sounds.
-Alert to sounds.
+Fa attenzione ai suoni.
 Impetuous and silly.
-Impetuous and silly.
+Irruente e semplice
 Somewhat of a clown.
-Somewhat of a clown.
+Una specie di buffone
 Quick to flee.
-Quick to flee.
+Sa fuggire velocemente.
 Highly curious.
-Highly curious.
+Grande ficcanaso.
 Mischievous.
-Mischievous.
+Alquanto vivace.
 Thoroughly cunning.
-Thoroughly cunning.
+Estremamente sagace.
 Often lost in thought.
-Often lost in thought.
+Si perde nel suo mondo.
 Very finicky.
-Very finicky.
+Molto esigente.
 Strong willed.
-Strong willed.
+Sa il fatto suo.
 Somewhat vain.
-Somewhat vain.
+Abbastanza superficiale.
 Strongly defiant.
-Strongly defiant.
+Molto insolente.
 Hates to lose.
-Hates to lose.
+Non sopporta perdere.
 Somewhat stubborn.
-Somewhat stubborn.
+Un po' testardo.
 SKILLS
-SKILLS
+ABILITA'
 {1:3d}/{2:3d}
 {1:3d}/{2:3d}
 Sp. Atk
-Sp. Atk
+Att. Sp.
 Sp. Def
-Sp. Def
+Dif. Sp.
 MOVES
-MOVES
+MOSSE
 PP
 PP
 {1:d}/{2:d}
@@ -2852,293 +2853,293 @@ PP
 ---
 ---
 CATEGORY
-CATEGORY
+CATEGORIA
 POWER
-POWER
+POTENZA
 ACCURACY
-ACCURACY
+PRECISIONE
 RIBBONS
-RIBBONS
+FIOCCHI
 No. of Ribbons:
-No. of Ribbons:
+Num. di Fiocchi:
 HM moves can't be forgotten now.
-HM moves can't be forgotten now.
+Le mosse MN non possono essere dimenticate.
 CLOSE BAG
-CLOSE BAG
+CHIUDI ZAINO
 x{1: 2d}
 x{1: 2d}
 Close bag.
-Close bag.
+Chiudi zaino.
 Invalid pocket: {1}
-Invalid pocket: {1}
+Tasca non valida: {1}
 The {1} can't be held.
-The {1} can't be held.
+Non può tenere {1}.
 That's not a Berry.
-That's not a Berry.
+Questa non è una Bacca.
 That's too important to toss out!
-That's too important to toss out!
+E' troppo importante per essere buttato via!
 Toss out how many {1}(s)?
-Toss out how many {1}(s)?
+Quanto ne vuoi buttare via di {1}?
 Is it OK to throw away {1} {2}(s)?
-Is it OK to throw away {1} {2}(s)?
+Sei sicuro di voler buttare via {1} {2}?
 Threw away {1} {2}(s).
-Threw away {1} {2}(s).
+Hai buttato via {1} {2}.
 Withdraw
-Withdraw
+Ritira
 How many do you want to withdraw?
-How many do you want to withdraw?
+Quanti ne vuoi ritirare?
 There's no more room in the Bag.
-There's no more room in the Bag.
+Non c'è più spazio nello zaino.
 Withdrew {1} {2}(s).
-Withdrew {1} {2}(s).
+Ritira {1} {2}.
 There is no Pokémon.
-There is no Pokémon.
+Non ci sono Pokémon.
 How many do you want to deposit?
-How many do you want to deposit?
+Quanti ne vuoi depositare?
 There's no room to store items.
-There's no room to store items.
+Non c'è più spazio per depositare strumenti.
 Deposited {1} {2}(s).
-Deposited {1} {2}(s).
+Depositati {1} {2}.
 Toss
-Toss
+Butta
 Deselect
-Deselect
+Deselezione
 Register
-Register
+Registra
 Close storage.
-Close storage.
+Chiudi.
 Withdraw<<n>>Item
-Withdraw<<n>>Item
+Ritira<<n>>Item
 Toss<<n>>Item
-Toss<<n>>Item
+Butta<<n>>Item
 x000
 x000
 x{1:03d}
 x{1:03d}
 You can't dismount your Bike here.
-You can't dismount your Bike here.
+Non puoi scendere dalla Bicicletta qui.
 {1} can't be taught to an Egg.
-{1} can't be taught to an Egg.
+Non puoi insegnare {1} ad un Uovo.
 {1} can't be taught to this Pokémon.
-{1} can't be taught to this Pokémon.
+Non puoi insegnare {1} a questo Pokémon.
 {1} already knows<<n>>{2}.
-{1} already knows<<r>><<n>>{2}.
+{1} conosce già<<r>><<n>>{2}.
 {1} learned<<n>>{2}!\se<<[>>itemlevel<<]>>
-{1} learned<<r>><<n>>{2}!\se<<[>>itemlevel<<]>>
+{1} impara<<r>><<n>>{2}!\se<<[>>itemlevel<<]>>
 {1} is trying to learn<<n>>{2}.<<1>>
-{1} is trying to learn<<r>><<n>>{2}.<<1>>
+{1} vuole imparare<<r>><<n>>{2}.<<1>>
 But {1} already knows four moves.<<1>>
-But {1} already knows four moves.<<1>>
+Ma {1} conosce già quattro mosse.<<1>>
 Delete an older move to make<<n>>room for {1}?
-Delete an older move to make<<r>><<n>>room for {1}?
+Vuoi cancellare una mossa per fare<<r>><<n>>spazio a {1}?
 \se<<[>><<]>>1,\wt<<[>>4<<]>> 2,\wt<<[>>4<<]>> and...\wt<<[>>8<<]>> ...\wt<<[>>8<<]>> ... \wt<<[>>8<<]>>Poof!\se<<[>>balldrop<<]>><<1>>
-\se<<[>><<]>>1,\wt<<[>>4<<]>> 2,\wt<<[>>4<<]>> and...\wt<<[>>8<<]>> ...\wt<<[>>8<<]>> ... \wt<<[>>8<<]>>Poof!\se<<[>>balldrop<<]>><<1>>
+\se<<[>><<]>>1,\wt<<[>>4<<]>> 2,\wt<<[>>4<<]>> e...\wt<<[>>8<<]>> ...\wt<<[>>8<<]>> ... \wt<<[>>8<<]>>Poof!\se<<[>>balldrop<<]>><<1>>
 {1} forgot<<n>>{2}.<<1>>
-{1} forgot<<r>><<n>>{2}.<<1>>
+{1} dimentica<<r>><<n>>{2}.<<1>>
 And...<<1>>
-And...<<1>>
+e...<<1>>
 \se<<[>><<]>>{1} learned<<n>>{2}!\se<<[>>itemlevel<<]>>
-\se<<[>><<]>>{1} learned<<r>><<n>>{2}!\se<<[>>itemlevel<<]>>
+\se<<[>><<]>>{1} impara<<r>><<n>>{2}!\se<<[>>itemlevel<<]>>
 \se[accesspc]Booted up an HM.
-\se[accesspc]Booted up an HM.
+\se[accesspc]Estratta una MN.
 It contained {1}.<<1>>
-It contained {1}.<<1>>
+Contiene {1}.<<1>>
 \se[accesspc]Booted up a TM.
-\se[accesspc]Booted up a TM.
+\se[accesspc]Estratta una MT.
 Teach {1} to a Pokémon?
-Teach {1} to a Pokémon?
+Insegnare {1} ad un Pokémon?
 You used your last {1}.
-You used your last {1}.
+Hai usato il tuo ultimo {1}.
 But the effects of a Repel lingered from earlier.
-But the effects of a Repel lingered from earlier.
+Ma l'effetto di un Repellente è già attivo da prima.
 {1} used the {2}.
-{1} used the {2}.
+{1} usa {2}.
 Repel's effect wore off...
-Repel's effect wore off...
+Finisce l'effetto di Repellente...
 Do you want to use another Repel?
-Do you want to use another Repel?
+Vuoi usare un altro Repellente?
 Wild Pokémon will be repelled.
-Wild Pokémon will be repelled.
+I Pokémon selvatici saranno respinti.
 Wild Pokémon will be lured.
-Wild Pokémon will be lured.
+I Pokémon selvatici saranno attratti.
 Using item...
-Using item...
+Usando lo strumento...
 {1} regained health.
-{1} regained health.
+La salute di {1} viene ripristinata.
 Coins: {1}
-Coins: {1}
+Gettoni: {1}
 {1} woke up.
-{1} woke up.
+{1} si è svegliato.
 {1}'s burn was healed.
-{1}'s burn was healed.
+La bruciatura di {1} è stata curata.
 {1} was cured of paralysis.
-{1} was cured of paralysis.
+{1} è stato curato dalla paralisi.
 {1} was thawed out.
-{1} was thawed out.
+{1} è scongelato.
 {1} became healthy.
-{1} became healthy.
+{1} ritorna in salute.
 Restore which move?
-Restore which move?
+Ripristina quale mossa?
 PP was restored.
-PP was restored.
+PP ripristinati.
 Boost PP of which move?
-Boost PP of which move?
+Aumenta i PP di quale mossa?
 {1}'s PP increased.
-{1}'s PP increased.
+PP di {1} aumentati.
 {1}'s HP increased.
-{1}'s HP increased.
+PS di {1} aumentati.
 {1}'s Attack increased.
-{1}'s Attack increased.
+Attacco di {1} aumentato.
 {1}'s Defense increased.
-{1}'s Defense increased.
+Difesa di {1} aumentata.
 {1}'s Special Attack increased.
-{1}'s Special Attack increased.
+Attacco Speciale di {1} aumentato.
 {1}'s Special Defense increased.
-{1}'s Special Defense increased.
+Difesa Speciale di {1} aumentata.
 {1}'s Speed increased.
-{1}'s Speed increased.
+Velocità di {1} aumentata.
 {1} was downgraded to Level {2}!
-{1} was downgraded to Level {2}!
+{1} degradato al livello {2}!
 {1}'s level remained unchanged.
-{1}'s level remained unchanged.
+Il livello di {1} rimane lo stesso.
 {1} was elevated to Level {2}!
-{1} was elevated to Level {2}!
+{1} è salito al livello {2}!
 {1} adores you!<<n>>The base HP fell!
-{1} adores you!<<n>>The base HP fell!
+{1} ti adora!<<n>>I PS base calano!
 {1} turned friendly.<<n>>The base HP can't fall!
-{1} turned friendly.<<n>>The base HP can't fall!
+{1} diventa amichevole.<<n>>I PS base non calano!
 {1} turned friendly.<<n>>The base HP fell!
-{1} turned friendly.<<n>>The base HP fell!
+{1} diventa amichevole.<<n>>I PS base calano!
 {1} adores you!<<n>>The base Attack fell!
-{1} adores you!<<n>>The base Attack fell!
+{1} ti adora!<<n>>L'Attacco base cala!
 {1} turned friendly.<<n>>The base Attack can't fall!
-{1} turned friendly.<<n>>The base Attack can't fall!
+{1} diventa amichevole.<<n>>L'Attacco base non cala!
 {1} turned friendly.<<n>>The base Attack fell!
-{1} turned friendly.<<n>>The base Attack fell!
+{1} diventa amichevole.<<n>>L'Attacco base cala!
 {1} adores you!<<n>>The base Defense fell!
-{1} adores you!<<n>>The base Defense fell!
+{1} ti adora!<<n>>La Difesa base cala!
 {1} turned friendly.<<n>>The base Defense can't fall!
-{1} turned friendly.<<n>>The base Defense can't fall!
+{1} diventa amichevole.<<n>>La Difesa base non cala!
 {1} turned friendly.<<n>>The base Defense fell!
-{1} turned friendly.<<n>>The base Defense fell!
+{1} diventa amichevole.<<n>>La Difesa base cala!
 {1} adores you!<<n>>The base Special Attack fell!
-{1} adores you!<<n>>The base Special Attack fell!
+{1} ti adora!<<n>>L'Attacco Speciale base cala!
 {1} turned friendly.<<n>>The base Special Attack can't fall!
-{1} turned friendly.<<n>>The base Special Attack can't fall!
+{1} diventa amichevole.<<n>>L'Attacco Speciale base non cala!
 {1} turned friendly.<<n>>The base Special Attack fell!
-{1} turned friendly.<<n>>The base Special Attack fell!
+{1} diventa amichevole.<<n>>L'Attacco Speciale base cala!
 {1} adores you!<<n>>The base Special Defense fell!
-{1} adores you!<<n>>The base Special Defense fell!
+{1} ti adora!<<n>>La Difesa Speciale base cala!
 {1} turned friendly.<<n>>The base Special Defense can't fall!
-{1} turned friendly.<<n>>The base Special Defense can't fall!
+{1} diventa amichevole.<<n>>La Difesa Speciale base non cala!
 {1} turned friendly.<<n>>The base Special Defense fell!
-{1} turned friendly.<<n>>The base Special Defense fell!
+{1} diventa amichevole.<<n>>La Difesa Speciale cala!
 {1} adores you!<<n>>The base Speed fell!
-{1} adores you!<<n>>The base Speed fell!
+{1} ti adora!<<n>>La Velocità base cala!
 {1} turned friendly.<<n>>The base Speed can't fall!
-{1} turned friendly.<<n>>The base Speed can't fall!
+{1} diventa amichevole.<<n>>La Velocità base non cala!
 {1} turned friendly.<<n>>The base Speed fell!
-{1} turned friendly.<<n>>The base Speed fell!
+{1} diventa amichevole.<<n>>La Velocità base cala!
 {1} changed Forme!
-{1} changed Forme!
+{1} ha cambiato Forma!
 It had no effect.
-It had no effect.
+Non ha avuto alcun effetto.
 Your party is full! You can't unfuse {1}.
-Your party is full! You can't unfuse {1}.
+La tua squadra è al completo! Non puoi separare {1}.
 Fuse with which Pokémon?
-Fuse with which Pokémon?
+Unire con quale Pokémon?
 {1} can't be fused with itself!
-{1} can't be fused with itself!
+{1} non puoi unirlo con se stesso!
 {1} can't be fused with {2}.
-{1} can't be fused with {2}.
+{1} non può unirsi con {2}.
 {1} used the {2}!
-{1} used the {2}!
+{1} usa {2}!
 {1} used the Escape Rope.
-{1} used the Escape Rope.
+{1} usa Fune di Fuga.
 ... ... ...Nope!<<n>>There's no response.
-... ... ...Nope!<<r>><<n>>There's no response.
+... ... ...No!<<r>><<n>>Non c'è risposta.
 Oh!<<n>>The {1}'s shaking wildly!<<1>>
-Oh!<<n>>The {1}'s shaking wildly!<<1>>
+Oh!<<n>>Il {1} sta tremando all'impazzata!<<1>>
 There's an item buried underfoot!
-There's an item buried underfoot!
+C'è uno strumento sepolto qui sotto!
 Oh!<<n>>The {1}'s responding!<<1>>
-Oh!<<n>>The {1}'s responding!<<1>>
+Oh!<<n>>{1} sta rispondendo!<<1>>
 There's an item buried around here!
-There's an item buried around here!
+C'è uno strumento sepolto qui intorno!
 {1} got over its infatuation.
-{1} got over its infatuation.
+{1} è uscito dall'infatuazione.
 {1} snapped out of confusion.
-{1} snapped out of confusion.
+{1} è uscito dalla confusione.
 {1}'s Attack went way up!
-{1}'s Attack went way up!
+Attacco di {1} sale!
 {1}'s Defense went way up!
-{1}'s Defense went way up!
+Difesa di {1} sale!
 {1}'s Special Attack went way up!
-{1}'s Special Attack went way up!
+Attacco Speciale di {1} sale!
 {1}'s Special Defense went way up!
-{1}'s Special Defense went way up!
+Difesa Speciale di {1} sale!
 {1}'s Speed went way up!
-{1}'s Speed went way up!
+Velocità di {1} sale!
 {1}'s accuracy went way up!
-{1}'s accuracy went way up!
+Precisione di {1} sale!
 Ally became shrouded in Mist!
-Ally became shrouded in Mist!
+La squadra alleata viene coperta dalla Nebbia!
 It's no good! It's impossible to aim when there are two Pokémon!
-It's no good!  It's impossible to aim when there are two Pokémon!
+Non va bene! E' impossibile mirare quando ci sono due Pokémon!
 There is no room left in the PC!
-There is no room left in the PC!
+Non c'è più spazio disponibile nel PC!
 Can't use that while on a bicycle.
-Can't use that while on a bicycle.
+Non puoi usarlo mentre sei sulla Bicicletta.
 The Poke Radar is already in use.
-The Poke Radar is already in use.
+Il Poké Radar è già in uso.
 The battery is not charged.<<1>>
-The battery is not charged.<<1>>
+La batteria non è carica.<<1>>
 You must walk {1} more steps to fully charge the battery.
-You must walk {1} more steps to fully charge the battery.
+Devi camminare altri {1} passi per caricare completamente la batteria.
 Used the Poke Radar.
-Used the Poke Radar.
+Hai usato il Poke Radar.
 Map
-Map
+Mappa
 Phone
-Phone
+Telefono
 Jukebox
 Jukebox
 Area Unknown
-Area Unknown
+Area Ignota
 The map data cannot be found.
-The map data cannot be found.
+I dati della mappa non possono essere trovati.
 Set the name for this point.
-Set the name for this point.
+Inserisci il nome per questo punto.
 Save changes?
-Save changes?
+Salvi i cambiamenti?
 Exit from the map?
-Exit from the map?
+Vuoi uscire dalla mappa?
 Registered {1} in the Pokégear.
-Registered {1} in the Pokégear.
+Hai registrato {1} nel Pokégear.
 Let me register you.
-Let me register you.
+Lascia che ti registri.
 The Trainer is close by.<<n>>Talk to the Trainer in person!
-The Trainer is close by.<<n>>Talk to the Trainer in person!
+L'allenatore è qui vicino.<<n>>Parlagli di persona!
 The Trainer is out of range.
-The Trainer is out of range.
+L'allenatore è fuori portata.
 {1}'s messages not defined.<<n>>Couldn't call common event {2}.
-{1}'s messages not defined.<<n>>Couldn't call common event {2}.
+Messaggi di {1} non definiti.<<n>>Non si può chiamare l'evento {2}.
 There are no phone numbers stored.
-There are no phone numbers stored.
+Non ci sono numeri di telefono registrati.
 <ac>{1}
 <ac>{1}
 Registered<br>
-Registered<br>
+Registrato<br>
 <r>{1}<br>
  <r>{1}<br>
 Waiting for a rematch<r>{1}
-Waiting for a rematch<r>{1}
+In attesa di una rivincita<r>{1}
 ......\wt<<[>>5<<]>> ......\<<1>>
 ......\wt<<[>>5<<]>> ......\<<1>>
 Click!\wt<<[>>10<<]>><<n>>......\wt<<[>>5<<]>> ......\<<1>>
 Click!\wt<<[>>10<<]>><<n>>......\wt<<[>>5<<]>> ......\<<1>>
 March
-March
+Marzo
 Lullaby
 Lullaby
 Oak
@@ -3152,131 +3153,131 @@ Custom
 {1} {2}, {3}
 {1} {2}, {3}
 Name
-Name
+Nome
 Money
-Money
+Soldi
 {1}/{2}
 {1}/{2}
 Time
-Time
+Tempo
 Started
-Started
+Iniziato
 One or more fonts used in this game do not exist on the system.<<1>>
-One or more fonts used in this game do not exist on the system.<<1>>
+Uno o più font usati in questo gioco non esistono nel sistema.<<1>>
 The game can be played, but the look of the game's text will not be optimal.<<1>>
-The game can be played, but the look of the game's text will not be optimal.<<1>>
+La partita può essere giocata, ma la schermata dei testi di gioco non è ottimale.<<1>>
 Some of the fonts were successfully installed.<<1>>
-Some of the fonts were successfully installed.<<1>>
+Alcuni font sono stati installati correttamente.<<1>>
 To install the other fonts, copy the files in this game's Fonts folder to the Fonts folder in Control Panel.
-To install the other fonts, copy the files in this game's Fonts folder to the Fonts folder in Control Panel.
+Per installare altri font, copia i file nella cartella Font di questo gioco dalla cartella Font nel Pannello di Controllo.
 The fonts were successfully installed.<<1>>
-The fonts were successfully installed.<<1>>
+I font sono stati installati correttamente.<<1>>
 Would you like to restart the game and apply the changes?
-Would you like to restart the game and apply the changes?
+Vuoi riavviare il gioco e applicare i cambiamenti?
 To install the necessary fonts, copy the files in this game's Fonts folder to the Fonts folder in Control Panel.
-To install the necessary fonts, copy the files in this game's Fonts folder to the Fonts folder in Control Panel.
+Per installare font necessari, copia i file nella cartella Font di questo gioco dalla cartella Font nel Pannello di Controllo.
 Delete all saved data?
-Delete all saved data?
+Cancellare tutti i dati di salvataggio?
 Once data has been deleted, there is no way to recover it.<<1>>
-Once data has been deleted, there is no way to recover it.<<1>>
+Una volta che saranno cancellati, sarà impossibile recuperarli.<<1>>
 Delete the saved data anyway?
-Delete the saved data anyway?
+Cancellare comunque i dati?
 Deleting all data.<<n>>Don't turn off the power.\wtnp<<[>>0<<]>>
-Deleting all data.<<r>><<n>>Don't turn off the power.\wtnp<<[>>0<<]>>
+Cancellamento in corso.<<r>><<n>>Non spegnere.\wtnp<<[>>0<<]>>
 The save file was deleted.
-The save file was deleted.
+I dati di salvataggio sono stati cancellati.
 No save file was found.
-No save file was found.
+Nessun file di salvataggio è stato trovato.
 No starting position was set in the map editor.<<1>>
-No starting position was set in the map editor.<<1>>
+Nessun punto di inizio è stato inserito nell'editor della mappa.<<1>>
 The game cannot continue.
-The game cannot continue.
+Il gioco non può continuare.
 The save file is corrupt. The previous save file will be loaded.
-The save file is corrupt.  The previous save file will be loaded.
+Il file di salvataggio è corrotto. Il precedente salvataggio verrà caricato.
 The save file is corrupt, or is incompatible with this game.
-The save file is corrupt, or is incompatible with this game.
+Il file di salvataggio è corrotto, o è incompatibile con questo gioco.
 Do you want to delete the save file and start anew?
-Do you want to delete the save file and start anew?
+Vuoi cancellare il file di salvataggio e cominciarne uno nuovo?
 <ac><c2=06644bd2>{1}</c2></ac>
 <ac><c2=06644bd2>{1}</c2></ac>
 Player<r><c3={1}>{2}</c3><br>
-Player<r><c3={1}>{2}</c3><br>
+Giocatore<r><c3={1}>{2}</c3><br>
 Time<r><c3={1:s}>{2:02d}:{3:02d}</c3><br>
-Time<r><c3={1:s}>{2:02d}:{3:02d}</c3><br>
+Tempo<r><c3={1:s}>{2:02d}:{3:02d}</c3><br>
 Badges<r><c3={1}>{2}</c3><br>
-Badges<r><c3={1}>{2}</c3><br>
+Medaglie<r><c3={1}>{2}</c3><br>
 Pokédex<r><c3={1}>{2}/{3}</c3><br>
 Pokédex<r><c3={1}>{2}/{3}</c3><br>
 Party
-Party
+Squadra
 Continue
-Continue
+Continua
 New Game
-New Game
+Nuovo Gioco
 Mystery Gift
-Mystery Gift
+Dono Segreto
 Language
-Language
+Lingua
 Map {1} was not found.
-Map {1} was not found.
+La Mappa {1} non è stata trovata.
 The map was not found. The game cannot continue.
-The map was not found. The game cannot continue.
+La mappa non è stata trovata. Il gioco non può continuare.
 The map is corrupt. The game cannot continue.
-The map is corrupt. The game cannot continue.
+La mappa è corrotta. Il gioco non può continuare.
 Pokédex<r><c3={1}>{2}/{3}</c3>
 Pokédex<r><c3={1}>{2}/{3}</c3>
 The script is taking too long. The game will restart.
-The script is taking too long.  The game will restart.
+Lo script ci sta impiegando troppo tempo. Il gioco sarà riavviato.
 \se[]The game was saved.\se[save]\wtnp[30]
-\se[]The game was saved.\se[save]\wtnp[30]
+\se[]Il salvataggio è completato.\se[save]\wtnp[30]
 \se[]Save failed.\wtnp[30]
-\se[]Save failed.\wtnp[30]
+\se[]Salvataggio fallito.\wtnp[30]
 Would you like to save the game?
-Would you like to save the game?
+Vuoi salvare il gioco?
 WARNING!
-WARNING!
+ATTENZIONE!
 There is a different game file that is already saved.
-There is a different game file that is already saved.
+C'è un file di gioco diverso che è già salvato.
 If you save now, the other file's adventure, including items and Pokémon, will be entirely lost.
-If you save now, the other file's adventure, including items and Pokémon, will be entirely lost.
+Se tu salvassi ora, l'intero file dell'avventura, inclusi strumenti e Pokémon, saranno persi completamente.
 Are you sure you want to save now and overwrite the other save file?
-Are you sure you want to save now and overwrite the other save file?
+Sei sicuro di voler salvare e sovrascrivere il nuovo file di salvataggio?
 There is already a saved file. Is it OK to overwrite it?
-There is already a saved file.  Is it OK to overwrite it?
+C'è già un salvataggio. Vuoi sovrascriverlo?
 \se[]{1} saved the game.\se[save]\wtnp[30]
-\se[]{1} saved the game.\se[save]\wtnp[30]
+\se[]{1} ha salvato il gioco.\se[save]\wtnp[30]
 Speech frame {1}.
 Speech frame {1}.
 {1}x{2}
 {1}x{2}
 Text Speed
-Text Speed
+Velocità Testo
 Slow
-Slow
+Lento
 Mid
-Mid
+Medio
 Fast
-Fast
+Veloce
 Battle Scene
-Battle Scene
+Scena Lotta
 On
 On
 Off
 Off
 Battle Style
-Battle Style
+Stile Lotta
 Shift
-Shift
+Scambio
 Set
-Set
+Fisso
 Frame
 Frame
 Type %d
-Type %d
+Tipo %d
 Speech Frame
 Speech Frame
 Font Style
-Font Style
+Stile Font
 Em
 Em
 R/S
@@ -3286,141 +3287,141 @@ FRLG
 DP
 DP
 Screen Size
-Screen Size
+Dimensioni Schermo
 Please enter the first Pokémon.
-Please enter the first Pokémon.
+Inserire il primo Pokémon.
 Add another Pokémon?
-Add another Pokémon?
+Vuoi aggiungere un altro Pokémon?
 This trainer must have at least 1 Pokémon!
-This trainer must have at least 1 Pokémon!
+Questo allenatore deve avere almeno 1 Pokémon!
 Set the level for {1}.
-Set the level for {1}.
+Inserisci il livello per {1}.
 The Trainer's data was added to the list of battles and at PBS/trainers.txt.
-The Trainer's data was added to the list of battles and at PBS/trainers.txt.
+I dati dell'Allenatore sono stati inseriti alla lista delle lotte e al file PBS/trainers.txt.
 Add new trainer type {1}?
-Add new trainer type {1}?
+Aggiungere un nuovo tipo di allenatore {1}?
 Add new battle {1} (of {2}) for ({3}, {4})?
-Add new battle {1} (of {2}) for ({3}, {4})?
+Aggiungi una nuova lotta {1} (di {2}) per ({3}, {4})?
 Add new trainer ({1}, {2}, ID {3})?
-Add new trainer ({1}, {2}, ID {3})?
+Aggiungere un nuovo allenatore ({1}, {2}, ID {3})?
 Add new trainer ({1}, {2})?
-Add new trainer ({1}, {2})?
+Aggiungere un nuovo allenatore ({1}, {2})?
 YES
-YES
+SI'
 NO
 NO
 NO TO ALL
-NO TO ALL
+NO A TUTTO
 Can't find trainer ({1}, {2}, ID {3})
-Can't find trainer ({1}, {2}, ID {3})
+Non trovo l'allenatore ({1}, {2}, ID {3})
 AFTER LOSING...
-AFTER LOSING...
+DOPO LA SCONFITTA...
 Opponent 1's party has more than three Pokémon, which is not allowed
-Opponent 1's party has more than three Pokémon, which is not allowed
+La squadra 1 avversaria ha più di tre Pokémon, e non è permesso.
 Opponent 2's party has more than three Pokémon, which is not allowed
-Opponent 2's party has more than three Pokémon, which is not allowed
+La squadra 2 avversaria ha più di tre Pokémon, e non è permesso.
 Box {1:d}
 Box {1:d}
 You can't release an Egg.
-You can't release an Egg.
+Non puoi liberare un Uovo.
 Please remove the mail.
-Please remove the mail.
+Rimuovere prima la Lettera.
 That's your last Pokémon!
-That's your last Pokémon!
+Questo è il tuo ultimo Pokémon!
 Release this Pokémon?
-Release this Pokémon?
+Liberare questo Pokémon?
 {1} was released.
-{1} was released.
+{1} è stato liberato.
 Bye-bye, {1}!
-Bye-bye, {1}!
+Addio, {1}!
 Can't deposit from box...
-Can't deposit from box...
+Non si può depositare dal box...
 Please remove the Mail.
-Please remove the Mail.
+Rimuovere prima la Lettera.
 Deposit in which Box?
-Deposit in which Box?
+Depositare in quale Box?
 The Box is full.
-The Box is full.
+Il Box è pieno.
 Can't withdraw from party...
-Can't withdraw from party...
+Non puoi ritirare dalla squadra...
 Your party's full!
-Your party's full!
+La tua squadra è al completo!
 Position {1},{2} is empty...
-Position {1},{2} is empty...
+La posizione {1},{2} è vuota...
 Position {1},{2} is not empty...
-Position {1},{2} is not empty...
+La posizione {1},{2} non è vuota...
 Take this {1}?
-Take this {1}?
+Prendere {1}?
 Can't store the {1}.
-Can't store the {1}.
+Non puoi depositare {1}.
 Took the {1}.
-Took the {1}.
+Hai preso {1}.
 {1} is now being held.
-{1} is now being held.
+{1} ora è tenuto.
 WITHDRAW POKéMON
-WITHDRAW POKéMON
+RITIRA POKéMON
 DEPOSIT POKéMON
-DEPOSIT POKéMON
+DEPOSITA POKéMON
 MOVE POKéMON
-MOVE POKéMON
+MUOVI POKéMON
 MOVE ITEMS
-MOVE ITEMS
+MUOVI STRUMENTO
 SEE YA!
-SEE YA!
+A PRESTO!
 Move Pokémon stored in boxes to your party.
-Move Pokémon stored in boxes to your party.
+Muovi un Pokémon dal Box alla squadra.
 Store Pokémon in your party in Boxes.
-Store Pokémon in your party in Boxes.
+Deposita un Pokémon dalla squadra al Box.
 Organize the Pokémon in Boxes and in your party.
-Organize the Pokémon in Boxes and in your party.
+Organizza i Pokémon nei Box e nella tua squadra.
 Move items held by any Pokémon in a Box and your party.
-Move items held by any Pokémon in a Box and your party.
+Sposta gli strumenti tenuti dai Pokémon in un Box e nella squadra.
 Return to the previous menu.
-Return to the previous menu.
+Ritorna al menu precedente.
 Jump
-Jump
+Salta
 Wallpaper
-Wallpaper
+Sfondo
 What do you want to do?
-What do you want to do?
+Cosa vuoi fare?
 Jump to which Box?
-Jump to which Box?
+Saltare in quale Box?
 Forest
-Forest
+Foresta
 City
-City
+Città
 Desert
-Desert
+Deserto
 Savanna
-Savanna
+Savana
 Crag
-Crag
+Roccia
 Volcano
-Volcano
+Vulcano
 Snow
-Snow
+Neve
 Cave
-Cave
+Grotta
 Beach
-Beach
+Spieggia
 Seafloor
-Seafloor
+FondaleMarino
 River
-River
+Fiume
 Sky
-Sky
+Cielo
 Poké Center
-Poké Center
+CentroPoké
 Machine
-Machine
+Macchina
 Checks
-Checks
+Controlli
 Simple
-Simple
+Semplice
 Heart
-Heart
+Cuore
 Soul
-Soul
+Anima
 Retro
 Retro
 Compete
@@ -3434,73 +3435,73 @@ Kimono Girl
 Rocket
 Rocket
 Pick the wallpaper.
-Pick the wallpaper.
+Scegli lo sfondo.
 Box name?
-Box name?
+Nome del Box?
 Exit from the Box?
-Exit from the Box?
+Vuoi uscire dal Box?
 Continue Box operations?
-Continue Box operations?
+Continuare le operazioni sul Box?
 Select
-Select
+Seleziona
 Mark
-Mark
+Marchia
 Store
-Store
+Deposita
 Which one will you take?
-Which one will you take?
+Quale vuoi prendere?
 Release
-Release
+Libera
 You're holding a Pokémon!
-You're holding a Pokémon!
+Stai tenendo un Pokémon!
 Move
-Move
+Muovi
 Place
-Place
+Posiziona
 The duplicated Pokémon was moved to your party.
-The duplicated Pokémon was moved to your party.
+Il Pokémon doppiato è stato spostato nella tua squadra.
 All boxes are full.
-All boxes are full.
+Tutti i Box sono pieni.
 The duplicated Pokémon was moved to box "{1}."
-The duplicated Pokémon was moved to box "{1}."
+Il Pokémon doppiato è stato postato nel Box "{1}."
 Lv.
 Lv.
 Mark your Pokemon.
-Mark your Pokemon.
+Marchia il tuo Pokémon.
 {1} ({2}/{3})
 {1} ({2}/{3})
 The player is not on a map, so the region could not be determined.
-The player is not on a map, so the region could not be determined.
+Il giocatore non è su una mappa, quindi la regione non può essere determinata.
 The current map has no region set. Please set the MapPosition metadata setting for this map.
-The current map has no region set.  Please set the MapPosition metadata setting for this map.
+La mappa attuale non ha una regione inserita. Inserire l'impostazione MapPosition metadata per questa mappa.
 Bill
 Bill
 Withdraw Item
-Withdraw Item
+Ritira Strumento
 Deposit Item
-Deposit Item
+Deposita Strumento
 Toss Item
-Toss Item
+Butta Stumento
 Take out items from the PC.
-Take out items from the PC.
+Prendi strumenti dal PC.
 Store items in the PC.
-Store items in the PC.
+Deposita strumenti nel PC.
 Throw away items stored in the PC.
-Throw away items stored in the PC.
+Butta strumenti depositati nel PC.
 Go back to the previous menu.
-Go back to the previous menu.
+Torna al menu precedente.
 There are no items.
-There are no items.
+Non ci sono strumenti.
 There's no Mail here.
-There's no Mail here.
+Non ci sono Lettere qui.
 What do you want to do with {1}'s Mail?
-What do you want to do with {1}'s Mail?
+Cosa vuoi fare con la Lettera di {1}?
 Move to Bag
-Move to Bag
+Sposta nello Zaino
 The message will be lost. Is that OK?
-The message will be lost.  Is that OK?
+Il messaggio sarà perduto. Va bene?
 The Mail was returned to the Bag with its message erased.
-The Mail was returned to the Bag with its message erased.
+La lettera è tornata nello Zaino con il messaggio cancellato.
 The Bag is full.
 The Bag is full.
 Item Storage
